@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap");
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
@@ -17,6 +19,12 @@
   --ecru: #C2A878;
   --midnight-green: #204B57;
   --dark-green: #14281D;
+
+  --clb:#FFFD77;
+  --clt:#F7C548;
+  --clr:#E6AA68;
+
+  --error: #CA3C25;
 }
 
 a {
@@ -27,7 +35,7 @@ a {
 
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: "Quicksand", Arial, sans-serif;
   background-color: var(--white);
   color: var(--black);
 }
@@ -137,4 +145,9 @@ body {
   .hero p {
       font-size: 1rem;
   }
+}
+
+
+.error-message {
+  color: var(--error);
 }
