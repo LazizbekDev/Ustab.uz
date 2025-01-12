@@ -3,6 +3,8 @@ import { Route, Routes } from "react-router-dom";
 import ProtectedRoute from "./components/ProtectedRoute";
 import useAuth from "./hooks/useAuth";
 import { Loader } from "./utilities/loader";
+import NotFound from "./pages/NotFound";
+import { Cyber } from "./pages/variant_x/cyber";
 
 const Dashboard = lazy(() => import("./pages/Dashboard"));
 const LoginForm = lazy(() => import("./pages/login/login"));
@@ -18,6 +20,7 @@ function App() {
                 <Route path="/" element={<Home />} />
                 <Route path="/login" element={<LoginForm />} />
                 <Route path="/register" element={<RegisterForm />} />
+                <Route path="/3/cyber" element={<Cyber/>} />
                 <Route
                     path="/dashboard"
                     element={
@@ -26,6 +29,7 @@ function App() {
                         </ProtectedRoute>
                     }
                 />
+                <Route path="*" element={<NotFound />} />
             </Routes>
         </Suspense>
     );
