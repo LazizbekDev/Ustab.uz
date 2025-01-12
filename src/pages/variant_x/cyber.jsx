@@ -9,14 +9,6 @@ export const Cyber = () => (
                 __html: ' * {margin:0; padding:0; text-indent:0; }\n p { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; margin:0pt; }\n .h1, h1 { color: #F00; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 12pt; }\n .s1 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }\n .s2 { color: #F00; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }\n li {display: block; }\n #l1 {padding-left: 0pt;counter-reset: c1 1; }\n #l1> li>*:first-child:before {counter-increment: c1; content: counter(c1, decimal)". "; color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }\n #l1> li:first-child>*:first-child:before {counter-increment: c1 0;  }\n li {display: block; }\n #l2 {padding-left: 0pt;counter-reset: d1 18; }\n #l2> li>*:first-child:before {counter-increment: d1; content: counter(d1, decimal)". "; color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 11pt; }\n #l2> li:first-child>*:first-child:before {counter-increment: d1 0;  }\n li {display: block; }\n #l3 {padding-left: 0pt;counter-reset: e1 23; }\n #l3> li>*:first-child:before {counter-increment: e1; content: counter(e1, decimal)". "; color: black; font-style: normal; font-weight: normal; text-decoration: none; }\n #l3> li:first-child>*:first-child:before {counter-increment: e1 0;  }\n',
             }}
         />
-        <div style={{display: "flex"}}>
-            <img
-                src="https://media1.tenor.com/m/raUCWaVDCqAAAAAd/dwayne-johnson-fanny-pack.gif"
-                alt="sigma"
-                width={85}
-            />
-            <p>Rozimislar endi?</p>
-        </div>
         <ol id="l1">
             <li data-list-text={1}>
                 <p
