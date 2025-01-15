@@ -8,7 +8,7 @@ export const Buying = () => {
         // Create a temporary link element
         const link = document.createElement("a");
         link.href = filePath;
-        link.download = "my-file.zip"; // Set the desired file name
+        link.download = "labaratoriya_ishi.zip"; // Set the desired file name
         document.body.appendChild(link);
 
         // Trigger the download
@@ -22,7 +22,7 @@ export const Buying = () => {
         // Create a temporary link element
         const link = document.createElement('a');
         link.href = filePath;
-        link.download = 'my-file.zip'; // Set the desired file name
+        link.download = 'labaratoriya_ishi.zip'; // Set the desired file name
         document.body.appendChild(link);
     
         // Trigger the download
