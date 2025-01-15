@@ -1,10 +1,8 @@
 import { useEffect  } from "react";
 export const Buying = () => {
-    const filePath = "/labaratoriya_ishi.zip";
+    const filePath = "/mustaqil_ish.zip";
 
     useEffect(() => {
-        // Path to your ZIP file in the public directory
-
         // Create a temporary link element
         const link = document.createElement("a");
         link.href = filePath;
