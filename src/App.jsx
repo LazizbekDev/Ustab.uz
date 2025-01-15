@@ -6,6 +6,7 @@ import { Loader } from "./utilities/loader";
 import NotFound from "./pages/NotFound";
 import { Cyber } from "./pages/variant_x/cyber";
 import { Bm } from "./pages/variant_x/bm";
+import { Buying } from "./pages/variant_x/buying";
 
 const Dashboard = lazy(() => import("./pages/Dashboard"));
 const LoginForm = lazy(() => import("./pages/login/login"));
@@ -22,6 +23,7 @@ function App() {
                 <Route path="/login" element={<LoginForm />} />
                 <Route path="/register" element={<RegisterForm />} />
                 <Route path="/c" element={<Cyber/>} />
+                <Route path="/s" element={<Buying/>} />
                 <Route path="/bm" element={<Bm/>} />
                 <Route
                     path="/dashboard"
