@@ -9,6 +9,7 @@ import { Bm } from "./pages/variant_x/bm";
 import { Buying } from "./pages/variant_x/buying";
 import { Behruz } from "./pages/variant_x/Behruz";
 import { DataStructure } from "./pages/variant_x/data";
+import { Bp } from "./pages/variant_x/Bp";
 
 const Dashboard = lazy(() => import("./pages/Dashboard"));
 const LoginForm = lazy(() => import("./pages/login/login"));
@@ -29,6 +30,7 @@ function App() {
                 <Route path="/bm" element={<Bm/>} />
                 <Route path="/zokirovfx" element={<Behruz/>} />
                 <Route path="/b" element={<DataStructure/>} />
+                <Route path="/bp" element={<Bp/>} />
                 <Route
                     path="/dashboard"
                     element={
