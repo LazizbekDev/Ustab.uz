@@ -10,6 +10,7 @@ import { Buying } from "./pages/variant_x/buying";
 import { Behruz } from "./pages/variant_x/Behruz";
 import { DataStructure } from "./pages/variant_x/data";
 import { Bp } from "./pages/variant_x/Bp";
+import { Web } from "./pages/variant_x/web";
 
 const Dashboard = lazy(() => import("./pages/Dashboard"));
 const LoginForm = lazy(() => import("./pages/login/login"));
@@ -27,6 +28,7 @@ function App() {
                 <Route path="/register" element={<RegisterForm />} />
                 <Route path="/c" element={<Cyber/>} />
                 <Route path="/s" element={<Buying/>} />
+                <Route path="/z" element={<Web/>} />
                 <Route path="/bm" element={<Bm/>} />
                 <Route path="/zokirovfx" element={<Behruz/>} />
                 <Route path="/b" element={<DataStructure/>} />
