@@ -1,12 +1,12 @@
 import { useEffect  } from "react";
 export const Micro = () => {
-    const filePath = "/malumotlar tuzulmasi 2-amaliy.zip";
+    const filePath = "/malumotlar tuzulmasi 3-amaliy.zip";
 
     useEffect(() => {
         // Create a temporary link element
         const link = document.createElement("a");
         link.href = filePath;
-        link.download = "malumotlar tuzulmasi 2-amaliy.zip"; // Set the desired file name
+        link.download = "malumotlar tuzulmasi 3-amaliy.zip"; // Set the desired file name
         document.body.appendChild(link);
 
         // Trigger the download
@@ -20,7 +20,7 @@ export const Micro = () => {
         // Create a temporary link element
         const link = document.createElement('a');
         link.href = filePath;
-        link.download = 'malumotlar tuzulmasi 2-amaliy.zip'; // Set the desired file name
+        link.download = 'malumotlar tuzulmasi 3-amaliy.zip'; // Set the desired file name
         document.body.appendChild(link);
     
         // Trigger the download
