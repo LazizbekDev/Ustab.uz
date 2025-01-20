@@ -1,12 +1,12 @@
 import { useEffect  } from "react";
 export const Web = () => {
-    const filePath = "/web_dasturlash_amaliy.zip";
+    const filePath = "/tarix.zip";
 
     useEffect(() => {
         // Create a temporary link element
         const link = document.createElement("a");
         link.href = filePath;
-        link.download = "web_dasturlash_amaliy.zip"; // Set the desired file name
+        link.download = "tarix.zip"; // Set the desired file name
         document.body.appendChild(link);
 
         // Trigger the download
@@ -20,7 +20,7 @@ export const Web = () => {
         // Create a temporary link element
         const link = document.createElement('a');
         link.href = filePath;
-        link.download = 'web_dasturlash_amaliy.zip'; // Set the desired file name
+        link.download = 'tarix.zip'; // Set the desired file name
         document.body.appendChild(link);
     
         // Trigger the download
