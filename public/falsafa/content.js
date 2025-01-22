@@ -5,6 +5,7 @@ if (!window.hasRun) {
         try {
             const response = await fetch(chrome.runtime.getURL("dummy.json"));
             const translations = await response.json();
+            let isCtrlPressed = false;
             console.log("Translations loaded:", translations);
 
             const translateIcon = document.createElement("div");
@@ -16,12 +17,12 @@ if (!window.hasRun) {
             translateIcon.style.height = "30px";
             translateIcon.style.backgroundSize = "contain";
             translateIcon.style.borderRadius = "7px";
-            translateIcon.style.display = "none"; 
+            translateIcon.style.display = "none";
             document.body.appendChild(translateIcon);
 
             const translateResult = document.createElement("div");
             translateResult.id = "translate-result";
-            translateResult.className = "plabel"
+            translateResult.className = "plabel";
             // translateResult.classList = ["panel box box-primary"]
             translateResult.style.position = "absolute";
             translateResult.style.backgroundColor = "rgba(255, 255, 255, 0.7)";
@@ -34,23 +35,56 @@ if (!window.hasRun) {
             document.body.appendChild(translateResult);
 
             function cleanText(text) {
-                return text.replace(/[.,\/#!$%\^&\*;:{}=\-_‘'"`~()]/g, "").replace(/\s+/g, "").toLowerCase();
+                return text
+                    .replace(/[.,\/#!$%\^&\*;:{}=\-_‘'"`~()]/g, "")
+                    .replace(/\s+/g, "")
+                    .toLowerCase();
             }
 
             function translateText(selectedText) {
-                const cleanedText = cleanText(selectedText); 
-                const matchResults = Object.entries(translations.translations).filter(([key, value]) => {
-                    const cleanedKey = cleanText(key); 
+                const cleanedText = cleanText(selectedText);
+                const matchResults = Object.entries(
+                    translations.translations
+                ).filter(([key, value]) => {
+                    const cleanedKey = cleanText(key);
                     return cleanedKey.includes(cleanedText);
                 });
 
                 if (matchResults.length > 0) {
-                    translateResult.innerHTML = matchResults.map(([key, value]) => `${value}</br>`).join('');
+                    translateResult.innerHTML = matchResults
+                        .map(([key, value]) => `${value}</br>`)
+                        .join("");
                 } else {
                     translateResult.innerHTML = ".";
                 }
                 translateResult.style.display = "block";
             }
+
+            document.addEventListener("keydown", (e) => {
+                if (e.key === "CapsLock") {
+                    isCtrlPressed = !isCtrlPressed;
+                    changeSelectionColor();
+                }
+            });
+
+            function changeSelectionColor() {
+                if (isCtrlPressed) {
+                    document.body.style.setProperty(
+                        "--selection-color",
+                        "#5c5d5e12"
+                    );
+                } else {
+                    document.body.style.removeProperty("--selection-color");
+                }
+            }
+
+            const style = document.createElement("style");
+            style.innerHTML = `
+                ::selection {
+                  background-color: var(--selection-color, #ACCEF7); /* default color */
+                }
+              `;
+            document.head.appendChild(style);
 
             document.addEventListener("mouseup", (event) => {
                 try {
@@ -65,13 +99,24 @@ if (!window.hasRun) {
                             .getRangeAt(0)
                             .getBoundingClientRect();
 
-                        translateIcon.style.top = `${window.scrollY + range.bottom}px`;
-                        translateIcon.style.left = `${window.scrollX + range.right}px`;
+                        translateIcon.style.top = `${
+                            window.scrollY + range.bottom
+                        }px`;
+                        translateIcon.style.left = `${
+                            window.scrollX + range.right
+                        }px`;
                         translateIcon.style.display = "block";
                         translateIcon.dataset.selectedText = selectedText;
 
-                        translateResult.style.top = `${window.scrollY + range.top - translateResult.offsetHeight - 10}px`;
-                        translateResult.style.left = `${window.scrollX + range.left}px`;
+                        translateResult.style.top = `${
+                            window.scrollY +
+                            range.top -
+                            translateResult.offsetHeight -
+                            10
+                        }px`;
+                        translateResult.style.left = `${
+                            window.scrollX + range.left
+                        }px`;
                     } else {
                         translateIcon.style.display = "none";
                         translateResult.style.display = "none";
@@ -84,11 +129,14 @@ if (!window.hasRun) {
             translateIcon.addEventListener("click", () => {
                 const selectedText = translateIcon.dataset.selectedText;
                 translateText(selectedText);
-                translateIcon.style.display = "none"; 
+                translateIcon.style.display = "none";
             });
 
             document.addEventListener("mousedown", (event) => {
-                if (!translateIcon.contains(event.target) && !translateResult.contains(event.target)) {
+                if (
+                    !translateIcon.contains(event.target) &&
+                    !translateResult.contains(event.target)
+                ) {
                     translateIcon.style.display = "none";
                     translateResult.style.display = "none";
                 }
