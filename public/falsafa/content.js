@@ -36,7 +36,7 @@ if (!window.hasRun) {
 
             function cleanText(text) {
                 return text
-                    .replace(/[.,\/#!$%\^&\*;:{}=\-_‘'"`~()]/g, "")
+                    .replace(/[.,\/#!$%\^&\*;:{}=\-_‘ʼ'"`~()]/g, "")
                     .replace(/\s+/g, "")
                     .toLowerCase();
             }
