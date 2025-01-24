@@ -1,19356 +1,15291 @@
 export const Behruz = () => (
-    <>
-      <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
-      <title>262db856-c449-4dc7-9d1e-761a806f7632</title>
-      <meta name="author" content="Пользователь" />
-      <style
-        type="text/css"
-        dangerouslySetInnerHTML={{
-          __html:
-            ' * {margin:0; padding:0; text-indent:0; }\n .p, p { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 14pt; margin:0pt; }\n h1 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: bold; text-decoration: none; font-size: 14pt; }\n'
-        }}
-      />
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qadimgi Misr iqtisodiy tizimida asosiy boylik manbai nima edi?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Yer
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qimmatbaho toshlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qullar mehnati
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Savdo
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qadimgi Bobilning asosiy iqtisodiy faoliyati qaysi sohada edi?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Qishloq xo'jaligi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Dengiz savdosi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Tog'-kon sanoati
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Yog'och tayyorlash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qadimgi Yunoniston iqtisodiyotining asosiy bo'lagi nima edi?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Hunarmandchilik
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Daryo savdosi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Dehqonchilik
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Qullar mehnati
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Rim imperiyasida qaysi omil iqtisodiy taraqqiyotga katta hissa qo'shgan?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Yo'llar tarmog'i
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Daryo bo'yidagi shaharlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tog' konlari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Baliqchilik
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qadimgi Xitoyda iqtisodiy faoliyat qaysi sohalarga asoslangan edi?
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Yer ishlash va ipak ishlab chiqarish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Dengiz savdosi va yog'och kesish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tog'-kon sanoati va baliq ovlash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Chorvachilik va qurilish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Misrdagi Nil daryosi qanday iqtisodiy foyda keltirgan?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Sug'orish tizimi va hosildorlikni oshirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Dengiz savdosi rivoji
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tog' konlari kashfiyoti
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Chorvachilikning kengayishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ++++
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Bobil podshohi Hammurapi qonunlarida iqtisodiy faoliyat qanday tartibga
-        solingan edi?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        #Savdo va mulkchilik qonunlari bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qishloq xo'jaligi soliqlari bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Harbiy xizmat tartibi bilan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qullar bozorida savdo tartibi bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qadimgi Rimda qul mehnati qanday ahamiyatga ega edi?
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Dehqonchilik va qurilishda muhim edi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat hunarmandchilikda ishlatilgan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Savdoda ishlatilmagan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Harbiy xizmat uchun ishlatilgan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ++++
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Qadimgi Yunoniston iqtisodiyotida dengiz savdosi qaysi shaharga ko'proq
-        foyda keltirgan?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Afina
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sparta
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Makedoniya
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Delphi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qadimgi Xitoyda ipak yo'li qanday iqtisodiy ahamiyatga ega edi?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Savdo aloqalarini kengaytirgan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat ichki savdoni rivojlantirgan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Asosan chorvachilikka asoslangan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tog'-kon sanoatini rivojlantirgan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qadimgi Misrda yerga egalik huquqi kimga tegishli edi?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Fir'avnga
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Diniy ruhoniylarga
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Oddiy xalqga
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Savdogarlarga
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ++++
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Bobil iqtisodiy rivojiga qaysi resurslar asos bo'lgan?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Yer va suv
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Qimmatbaho toshlar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Yog'och va ko'mir
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Chorva mollari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ++++
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Qadimgi Rimda asosiy savdo mahsulotlari qaysilar edi?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #G'alla, zaytun yog'i va sharob
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        To'qimachilik va baliq
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qimmatbaho metallar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Dehqonchilik vositalari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Yunonistonning dengiz savdosidagi asosiy raqibi kim edi?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Finikiyaliklar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Misrliklar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Rimliklar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Hindistonliklar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qadimgi Xitoyda ipak ishlab chiqarish qaysi hududda rivojlangan edi?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Markaziy Xitoy
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sharqiy qirg'oq
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Janubiy tog'lar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Shimoliy dashtlar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Rim imperiyasida savdo yo'llarini himoya qilish uchun qaysi choralar
-        ko'rilgan?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Harbiy garnizonlar qurilgan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Tabiiy to'siqlar o'rnatilgan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Savdogarlarga soliq imtiyozlari berilgan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Maxsus dengiz floti yaratilgan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Misrning qaysi iqtisodiy faoliyati dunyo bo'ylab mashhur bo'lgan?
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Qishloq xo'jaligi va piramidalar qurilishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Dengizchilik va kemasozlik
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Baliqchilik va qimmatbaho metallar qazib olish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Yog'och eksporti
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bobil podshohligi iqtisodiy siyosatida qaysi elementlar muhim edi?
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Qonun va soliqlar tizimi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat savdo bozorlarini nazorat qilish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Harbiy xizmatning tartibga solinishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat qishloq xo'jaligiga qaratilgan investitsiyalar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Abu Nasr Forobiy iqtisodiyotning asosiy tamoyillari haqida qanday fikr
-        bildirgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Boylik va taqsimotning adolatli bo‘lishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat davlat boshqaruvi bilan bog‘liq bo‘lishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Savdo va foyda olishning cheklanganligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Boylik faqat hukmdor qo‘lida bo‘lishi kerakligi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ibn Sino iqtisodiyotda qanday mezonlarni muhim deb bilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Tadbirkorlik va boylik orttirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Ijtimoiy adolat va mulkchilik huquqi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliqlarni oshirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faol savdo-sotiq tizimi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Beruniy asarlarida iqtisodiy taraqqiyotning asosiy manbai sifatida nimani
-        ko‘rsatgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Ilm-fan va hunarmandchilik rivoji
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat qishloq xo‘jaligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Harbiy qudrat va zabt etish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat boshqaruvining kuchaytirilishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ibn Xaldun iqtisodiy inqirozlarning sababi sifatida nimani ta’kidlagan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Davlat boshqaruvining zaiflashishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tabiiy ofatlar va qurg‘oqchilik
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Savdo yo‘llarining yopilishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ijtimoiy notinchlik va adolatsizlik
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Forobiyning "Fozil shahar" konsepsiyasida iqtisodiy barqarorlikning sharti
-        nima edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Bilimli hukmdor va adolatli taqsimot
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Harbiy kuch va boylik
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tabiiy resurslarni boshqarish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat hukmdorning kuchi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ibn Sino iqtisodiy rivojlanishni qanday omillar bilan bog‘lagan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Ilm-fan va texnologiyaning rivoji
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat savdo va hunarmandchilik
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliq tizimini mustahkamlash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat davlatga xizmat qilish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Beruniyning iqtisodiy fikrlariga ko‘ra, boylik qanday taqsimlanishi kerak?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Adolatli va mehnatga yarasha
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat tomonidan taqsimlanishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Harbiylar o‘rtasida bo‘linishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat badavlatlarga tegishli bo‘lishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ibn Xaldunning iqtisodiy nazariyasida soliqlar qachon barqarorlik
-        keltiradi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Adolatli va o‘rtacha bo‘lsa
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Yuqori va qat’iy bo‘lsa
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat urush paytida oshirilsa
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Har doim past bo‘lsa
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          textAlign: "left"
-        }}
-      >
-        Beruniyning iqtisodiy fikrlariga ko‘ra, qaysi soha iqtisodiy
-        taraqqiyotning asosi hisoblangan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Fan, texnika va savdo
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat harbiy soha
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Dehqonchilik va hunarmandchilik
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat xizmatlari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Abu Nasr Forobiyning fikricha, bilimli hukmdor iqtisodiy barqarorlikka
-        qanday erishadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Ijtimoiy tenglik va adolatni qaror toptirish orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Soliqlarni oshirish orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Urushlar bilan boylik to‘plash orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat boylarni qo‘llab-quvvatlash orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Ibn Xaldun iqtisodiyotning rivojlanishiga qaysi omil salbiy ta’sir
-        ko‘rsatishini aytgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Davlatning haddan tashqari aralashuvi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat urush va qurg‘oqchilik
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Savdogarlar raqobatining kuchayishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Boylarning soliqlardan ozod etilishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ibn Sino mulkchilik huquqi haqida qanday fikr bildirgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Shaxsiy mulkchilik rivojlanishni ta’minlaydi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Mulk davlat nazorati ostida bo‘lishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Mulk faqat davlatga tegishli bo‘lishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat jamoaviy mulk afzal
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "3pt",
-          textAlign: "left"
-        }}
-      >
-        Beruniy iqtisodiyotni rivojlantirishda ilm-fanning qaysi yo‘nalishlarini
-        muhim deb bilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Astronomiya va matematika
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Harbiy strategiya
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat dehqonchilik texnologiyalari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat savdo-sotiq qoidalari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Forobiyning "Ideal davlat" g‘oyasida iqtisodiyot qanday rol o‘ynaydi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Ijtimoiy adolat va barqarorlikning asosi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat boylik to‘plash manbai
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Hukmdorning shaxsiy boyligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Harbiy qudrat vositasi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Ibn Xaldun iqtisodiyotda soliqlar haddan tashqari ko‘tarilsa, nima
-        bo‘lishini ta’kidlagan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Ishlab chiqarish pasayadi va savdo zaiflashadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat yanada boyib ketadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Boylar ko‘proq sarmoya kiritadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qashshoqlik darajasi kamayadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Abu Rayhon Beruniyning "Qonuni Ma'sudiy" asarida iqtisodiyotning qaysi
-        tamoyili aks etgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Ilm-fan taraqqiyoti va resurslardan samarali foydalanish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat harbiy kuch ishlatish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat boyligini oshirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Xalq mehnatining cheklanishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Ibn Sinoning iqtisodiy barqarorlik haqidagi asosiy fikrlari qanday edi?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Ilm-fan va mehnat taqsimoti orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Harbiy ekspansiyalar orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qonuniy cheklovlar bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Savdogarlarga soliqlarni oshirish orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Ibn Xaldun iqtisodiyotda mulkchilik huquqining asosiy tamoyilini qanday
-        belgilagan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Mulk adolatli taqsimlanishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat davlatga tegishli bo‘lishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Boylarning soliqdan ozod bo‘lishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat meros orqali o‘tishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizmdagi asosiy iqtisodiy tamoyil nima edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Boylik davlat qo‘lida jamlanishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Barcha boylik xalqqa teng taqsimlanishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Cheklovsiz tashqi savdo yuritish kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qishloq xo‘jaligini rivojlantirish birinchi o‘rinda
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizmdagi oltin va kumushning o‘rni qanday baholangan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Ular iqtisodiy qudratning asosiy ko‘rsatkichi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat savdo uchun kerak bo‘lgan vosita
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Iqtisodiy o‘sishga bevosita ta’sir qilmaydi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qishloq xo‘jaligi mahsulotlari bilan teng baholangan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizm davrida davlatlar qanday iqtisodiy siyosat yuritgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Eksportni rag‘batlantirish, importni cheklash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Importni ko‘paytirish va soliqlarni kamaytirish
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat ichki bozorni rivojlantirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Savdoni to‘liq liberallashtirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizmdagi asosiy iqtisodiy maqsad nima edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Savdo orqali davlat boyligini oshirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Xalqning farovonligini oshirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat sanoatni rivojlantirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat qarzini kamaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizmdagi davlatning iqtisodiyotdagi roli qanday belgilangan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Davlat iqtisodiyotni to‘liq nazorat qilishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor o‘z-o‘zini boshqarishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat soliqlarni yig‘ish bilan cheklanadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat qishloq xo‘jaligiga e’tibor qaratiladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizmdagi savdo balansining ijobiy bo‘lishi nimani anglatadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Eksport importdan ko‘p bo‘lishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Import eksportdan ko‘p bo‘lishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Savdo balansiga ahamiyat berilmaydi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat qishloq xo‘jaligi mahsulotlari eksport qilinishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Merkantilizmga ko‘ra qaysi faoliyat asosiy iqtisodiy foyda manbai
-        hisoblangan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Savdo va sanoat ishlab chiqarishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Qishloq xo‘jaligi ishlab chiqarishi
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizmning asosiy g‘oyasi qanday davlat siyosatiga olib kelgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Mustamlakachilik va harbiy bosqinchilik
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tinchlikparvarlik siyosati
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Erkin savdo siyosatini joriy qilish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Ijtimoiy tenglikni ta’minlash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizm davrida xalqaro savdo qanday boshqarilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Davlat tomonidan qat’iy tartibga solingan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Butunlay erkin bo‘lgan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat boy davlatlar bilan cheklangan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Maxsus shartnomalarsiz amalga oshirilgan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizmdagi “boylik” tushunchasi asosan nimaga asoslangan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Tilla va kumush zaxiralariga
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Qishloq xo‘jaligi mahsulotlariga
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ishchi kuchining ko‘pligiga
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Texnologik taraqqiyotga
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Merkantilizmning iqtisodiy nazariyalariga ko‘ra davlat nimani ustun
-        qo‘ygan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Eksportni ko‘paytirish va importni cheklash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ichki bozorni rivojlantirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalq farovonligini oshirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat qarzini kamaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Merkantilizm davrida davlatlar qanday turdagi sanoatni rivojlantirishga
-        intilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Eksportga mo‘ljallangan sanoat
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat oziq-ovqat sanoati
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat qishloq xo‘jaligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat harbiy sanoat
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizmdagi asosiy iqtisodiy raqobat qaysi sohada kuzatilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Xalqaro savdo va mustamlakachilik
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ichki bozorni kengaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Texnologik rivojlanish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Bank sohasida investitsiyalar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizm davrida davlatlar qanday soliqlarni joriy qilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Import mahsulotlariga yuqori boj to‘lovlari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat ichki soliqlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat qishloq xo‘jaligi soliqlari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Boj to‘lovlarini butunlay bekor qilgan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Merkantilizm g‘oyalariga ko‘ra qaysi siyosat boylik to‘plashda asosiy rol
-        o‘ynagan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Tashqi savdo cheklovlari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ichki investitsiyalar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qishloq xo‘jaligi islohotlari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Texnologik taraqqiyot
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizm davridagi davlat siyosati qanday natijaga olib kelgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Mustamlakalar o‘rtasida harbiy raqobat
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Iqtisodiy inqirozlarning kamayishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat qarzining kamayishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalq farovonligining oshishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizmdagi ishlab chiqarishning asosiy maqsadi nima edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Eksport uchun ortiqcha mahsulot ishlab chiqarish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Mahalliy bozorni ta’minlash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ichki savdoni kengaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat davlat zaxiralarini to‘ldirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        +++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizm iqtisodiy ta’limotining tarixiy ahamiyati nimada?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Zamonaviy iqtisodiy nazariyalar uchun asos yaratgani
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliq tizimini soddalashtirgani
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Iqtisodiy tenglikka erishilgani
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qishloq xo‘jaligi ishlab chiqarishini oshirgani
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <p style={{ textIndent: "0pt", textAlign: "left" }}>
-        <br />
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Klassik iqtisodiy maktabning asoschisi sifatida kim tan olinadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Adam Smit
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Dovud Rikardo
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Jon Styuart Mill
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fransua Kene
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Adam Smitning "Xalqlar boyligining tabiati va sabablari haqida tadqiqot"
-        asari qachon nashr qilingan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #1776-yilda
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        1750-yilda
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        1800-yilda
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        1735-yilda
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          textAlign: "left"
-        }}
-      >
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        "Ko‘rinmas qo‘l" tushunchasi kimning iqtisodiy nazariyasida paydo bo‘lgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Adam Smit
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fransua Kene
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Jon Styuart Mill
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tomas Maltus
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fransiya klassik iqtisodiy maktabining asoschisi kim hisoblanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Fransua Kene
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Adam Smit
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Dovud Rikardo
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Karl Marks
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qaysi iqtisodchi “Fiziokratlar” maktabiga asos solgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Fransua Kene
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Adam Smit
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Dovud Rikardo
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Jon Styuart Mill
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fiziokratlarning asosiy iqtisodiy tamoyili nima edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Qishloq xo‘jaligi asosiy boylik manbai
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat rivojlanishi muhimdir
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tashqi savdo cheklanmasligi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat barcha resurslarni boshqarishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Adam Smitning iqtisodiy nazariyasidagi asosiy g‘oya qanday edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Erkin bozor va raqobat iqtisodiy rivojlanishni ta’minlaydi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat davlat boshqaruvi farovonlik keltiradi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qishloq xo‘jaligi iqtisodning asosiy qismi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliqlarni yuqori saqlash kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Dovud Rikardo qanday nazariya bilan mashhur?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Nisbiy ustunlik nazariyasi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tashqi savdo cheklovlari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor boshqaruvi nazariyasi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Pul ta’limoti
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fransua Kenening iqtisodiy g‘oyalarida asosiy resurs nima deb qaralgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Yer
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Kapital
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Mehnat
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Adam Smitning “Bozor iqtisodiyoti” haqidagi g‘oyasi qaysi nazariyaga
-        asoslangan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Erkin bozor raqobati
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoatni davlat boshqarishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Cheklovli savdo siyosati
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliq tizimini oshirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fiziokratlar davlatning iqtisodiyotdagi o‘rnini qanday baholashgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat faqat soliqlarni nazorat qilishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat iqtisodiyotni boshqarishi shart
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Davlat aralashmasligi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat barcha bozorlarni boshqarishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Dovud Rikardoning “Renta nazariyasi” nimani tushuntiradi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Yerdan foydalanganlik uchun daromad olish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Ishchilarni boshqarish usullari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat foydasini oshirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Pulning qadrsizlanishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Klassik iqtisodiy maktabning asosiy maqsadi nima edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Erkin savdoni rivojlantirish va davlat aralashuvini cheklash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlatning iqtisodiy resurslarni boshqarishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat sanoat ishlab chiqarishni rivojlantirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qishloq xo‘jaligini yagona daromad manbai qilish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Adam Smit qaysi iqtisodiy tushunchani birinchi bo‘lib kiritgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Mehnat taqsimoti
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Xususiy mulk
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat bozorini boshqarish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qishloq xo‘jaligi yer solig‘i
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Dovud Rikardoning “Qonuniy ish haqi” tushunchasi nimani anglatadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Ishchilar uchun zarur eng kam maosh
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliqlarni kamaytirish usuli
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat uchun yuqori daromad
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tashqi savdoni kengaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Klassik iqtisodiy maktab qaysi davlatlarda rivojlangan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Angliya va Fransiya
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya va Italiya
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Rossiya va AQSh
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Ispaniya va Portugaliya
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fiziokratlar qaysi iqtisodiy tamoyilga asoslangan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # "Tabiat qonunlariga mos ravishda yashash"
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        "Savdo erkinligini cheklash"
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        "Ishchilar ish haqini oshirish"
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        "Davlat monopoliyasini o‘rnatish"
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Adam Smitning iqtisodiy falsafasi qanday iqtisodiy tizimning paydo
-        bo‘lishiga zamin yaratdi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Kapitalizm
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ijtimoiyizm
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Monopolizm
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Feodalizm
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Klassik iqtisodiy maktab qachon shakllana boshlagan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # XVIII asr oxiri – XIX asr boshida
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        XVII asrda
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        XV asrda
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        XX asr boshida
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Adam Smitning iqtisodiy g‘oyalari qaysi asarida keng yoritilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # “Xalqlar boyligining tabiati va sabablari haqida tadqiqot”
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        “Iqtisodiy taraqqiyot nazariyalari”
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        “Milliy farovonlik”
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        “Soliqlar va davlat boshqaruvi”
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Dovud Rikardoning "Renta nazariyasi" qanday boylik manbasiga asoslanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Yer resurslariga
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat mahsulotlariga
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Pul mablag‘lariga
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tashqi savdo daromadlariga
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Klassik iqtisodiy maktabning asosiy tamoyillaridan biri nima edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Davlat iqtisodiyotga aralashmasligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Markazlashtirilgan boshqaruv
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat monopoliyasini yaratish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tashqi savdo cheklovlarini joriy qilish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Dovud Rikardoning "Nisbiy ustunlik nazariyasi" qaysi iqtisodiy jarayonni
-        tushuntiradi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Tashqi savdo samaradorligini
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ichki investitsiyalarni boshqarish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Soliq tizimining rivojlanishini
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Pul qadrsizlanishini
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Klassik iqtisodiy maktab qaysi davlatlarda shakllandi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Angliya va Fransiya
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Italiya va Germaniya
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        AQSh va Kanada
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Rossiya va Xitoy
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Adam Smit iqtisodiy tizimni boshqarish uchun qanday mexanizmni ilgari
-        surdi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Ko‘rinmas qo‘l
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat nazorati
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Rivojlanish rejasi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Markazlashtirilgan boshqaruv
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Klassik iqtisodiy maktabning asosiy iqtisodiy tamoyili qanday edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Erkin bozor va raqobat
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Soliq ko‘tarilishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat monopoliyasi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat boshqaruvi kuchayishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        "Tabiiy mehnat taqsimoti" deganda nima tushuniladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Mehnat jarayonini mutaxassislik bo‘yicha bo‘lish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Ishchilarni davlatga bo‘ysundirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Mehnat bozorini cheklash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ishchilarning yagona mutaxassislikka ega bo‘lishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Dovud Rikardoning asosiy iqtisodiy asari nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #"Iqtisodiy va siyosiy nazariya tamoyillari"
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        "Erkin savdo manifesti"
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        "Milliy rivojlanish rejasi"
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        "Bozorni boshqarish tizimi"
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fransua Kenening asosiy iqtisodiy tamoyili qanday edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Qishloq xo‘jaligi asosiy boylik manbai
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat rivojlanishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat har bir sohani boshqarishi lozim
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Tashqi savdoni cheklash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Klassik iqtisodiy maktabning iqtisodiy tizimi qanday ataldi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Kapitalizm
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsializm
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Merkantilizm
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Feodalizm
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Klassik maktab vakillari qaysi iqtisodiy tamoyilga asoslangan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Erkin bozor va cheklovlarning yo‘qligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Tashqi savdoni yopish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat iqtisodiyotni to‘liq boshqarishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat monopoliyasini joriy qilish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Adam Smitning mehnat taqsimoti haqidagi qarashi qanday iqtisodiy samarani
-        keltiradi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Ishlab chiqarish samaradorligi oshadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliq darajasi oshadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat boyligi kamayadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Tashqi savdo pasayadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Adam Smit davlatning iqtisodiyotdagi rolini qanday baholagan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Cheklangan va zarur holatlarda aralashishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Har bir sohani boshqarishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliq siyosatini kuchaytirishi lozim
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorni to‘liq boshqarishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Dovud Rikardoning iqtisodiy g‘oyasiga ko‘ra, resurslarning cheklanganligi
-        nima bilan bog‘liq?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Yer resurslarining cheklanganligi bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ishchi kuchining kamligi bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Sanoat rivojlanishining sustligi bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tashqi savdo bozorining torligi bilan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Klassik iqtisodiy maktabning vakillari davlatning asosiy vazifasini qanday
-        belgilaganlar?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Davlat qonunlarni himoya qilishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat soliq siyosatini belgilashi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat har bir sohaga aralashishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat savdo siyosatini boshqarishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Klassik iqtisodiy maktabning asosiy iqtisodiy tamoyillaridan biri nima
-        edi?
-      </h1>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Bozor erkinligi va davlatning minimal aralashuvi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Monopoliyalarni rivojlantirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat mulkini kengaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Ishchilarni davlat nazoratiga olish
-      </p>
-      <p style={{ textIndent: "0pt", textAlign: "left" }}>
-        <br />
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ++++
-      </h1>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Klassik iqtisodiy maktabga muqobil g‘oya sifatida shakllangan
-        merkantilizmning asosiy tamoyili nima edi?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat aralashuvini kamaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor erkinligini kuchaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkni cheklash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Ijtimoiyizm nazariyasiga ko‘ra, asosiy iqtisodiy resurs kimning qo‘lida
-        bo‘lishi kerak?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Jamiyatning qo‘lida
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy tadbirkorlarning qo‘lida
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlatning cheklangan nazorati ostida
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xorijiy sarmoyadorlarning qo‘lida
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fiziokratlar iqtisodiy boylik manbai sifatida nimani ko‘rganlar?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Qishloq xo‘jaligini
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat ishlab chiqarishini
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bank va moliyaviy sektorni
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Savdoni
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Marksizm iqtisodiy nazariyasiga ko‘ra asosiy sinfiy kurash qaysi guruhlar
-        o‘rtasida kechadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Burjuaziya va proletariat
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Savdogarlar va dehqonlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Zodagonlar va hunarmandlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ilmiy xodimlar va sanoatchilar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Utopik sotsializmning asosiy g‘oyasi nima edi?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tashqi savdoni cheklash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Texnologik rivojlanishni to‘xtatish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keynschilik iqtisodiy nazariyasiga ko‘ra, davlat qanday rol o‘ynashi
-        kerak?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Iqtisodiy inqirozlarni boshqarish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozorni to‘liq erkinlashtirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkni cheklash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tashqi savdo siyosatini to‘xtatish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Kommunizmning asosiy iqtisodiy tamoyili nima edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Xususiy mulkni butunlay bekor qilish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor erkinligini oshirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat sohasini mustaqil rivojlantirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat nazoratini kamaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Utopik sotsialistlarning yetakchi vakili kim edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Sharl Furye
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Adam Smit
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Alfred Marshall
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Karl Menger
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fiziokratlar iqtisodiy siyosatning asosiy tamoyilini qanday atashgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # “Tabiiy tartib”
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        “Bozor mexanizmi”
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marksizm nazariyasida iqtisodiy rivojlanish qaysi omil bilan izohlanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Sinfiy kurash va inqiloblar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Erkin bozor raqobati
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat subsidiyalari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Bank tizimini rivojlantirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Ijtimoiy adolat va tenglikni ta’minlash qaysi iqtisodiy ta’limotning
-        asosiy g‘oyasi edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Sotsializm
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizm
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fiziokratizm
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Kapitalizm
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Marksizmga ko‘ra, iqtisodiy resurslarni taqsimlash qanday amalga
-        oshirilishi kerak?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Jamiyatning umumiy manfaatlariga ko‘ra
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Shaxsiy manfaatlarga ko‘ra
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Tashqi savdo orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor talablariga ko‘ra
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fiziokratlar bozor tartibining qanday shaklini qo‘llab-quvvatlashgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Davlat aralashuvisiz tabiiy bozor tartibi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat tomonidan boshqariladigan iqtisodiyot
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat monopoliyalarini joriy qilish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy tadbirkorlikni cheklash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Keynschilik nazariyasiga ko‘ra, davlatning iqtisodiy siyosatda asosiy
-        vazifasi nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Iqtisodiy barqarorlikni ta’minlash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliqlarni oshirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkni bekor qilish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qishloq xo‘jaligini boshqarish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizmdagi asosiy iqtisodiy boylik manbai qaysi biri edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Oltin va kumush zaxiralari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat mahsulotlari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tabiiy resurslar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Xususiy mulk
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Fiziokratlar kimlar tomonidan boshqarilgan iqtisodiy tizimni rad etishgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Davlat tomonidan boshqarilgan tizimni
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy tadbirkorlar tomonidan boshqarilgan tizimni
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Tashqi savdo siyosatidagi erkin tizimni
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro moliya bozorini
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Kommunizm iqtisodiy tizimining asosiy xususiyati qaysi biri edi?
-      </h1>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Sinfsiz jamiyatga erishish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Erkin bozor raqobati
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Xususiy mulkni kengaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat ishlab chiqarishini davlatdan mustaqil boshqarish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marksizm iqtisodiy ta’limoti asoschisi kim edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Karl Marks
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Adam Smit
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Alfred Marshall
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Jan Batist Say
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsialistik iqtisodiyotning asosiy xususiyati nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Davlat mulkchiligiga asoslangan iqtisodiy tizim
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Xususiy mulkchilikning kengaytirilishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor erkinligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Savdo monopoliyalarini qo‘llab-quvvatlash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsialistik iqtisodiyotda resurslarni taqsimlash qanday amalga
-        oshiriladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Markaziy rejalashtirish orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor talab va taklifiga ko‘ra
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tashqi investitsiyalar orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy tadbirkorlik asosida
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsialistik tizimning asosiy iqtisodiy maqsadi nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Ijtimoiy tenglik va adolatga erishish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozor monopoliyalarini kuchaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkni kengaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Eksport hajmini oshirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Sotsializmga ko‘ra asosiy ishlab chiqarish vositalari kimning nazoratida
-        bo‘lishi kerak?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Davlat yoki jamiyat
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Xususiy kompaniyalar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Xorijiy sarmoyadorlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Shaxsiy tadbirkorlar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsializmda mulkchilikning qanday turi ustuvor hisoblanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Jamoaviy va davlat mulkchiligi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy va shaxsiy mulkchilik
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Kichik biznes mulkchiligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Cheklangan aksiyadorlik jamiyatlari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsialistik iqtisodiyotning muhim tamoyillaridan biri qaysi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Daromadlarni teng taqsimlash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy kompaniyalarni qo‘llab-quvvatlash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Tashqi savdoni liberallashtirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor erkinligini kuchaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marksizmga ko‘ra, kapitalistik tizimning asosiy kamchiligi nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Sinfiy tengsizlik va ekspluatatsiya
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozor talabining o‘zgaruvchanligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat rivojlanishining sekinlashishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Moliyaviy tizimning barqarorligi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsialistik iqtisodiyotda narxlar qanday aniqlanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Davlat tomonidan belgilangan reja asosida
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozor talab va taklifiga ko‘ra
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat monopoliyalariga ko‘ra
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy investorlar qarorlariga ko‘ra
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Sotsializm g‘oyalariga asoslangan davlatlarning boshqaruv usuli qanday
-        bo‘ladi?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor raqobatiga asoslangan boshqaruv
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Liberal-demokratik boshqaruv
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkka asoslangan tizim
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsializm tarafdorlari qaysi prinsipni ustuvor deb bilishadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Ijtimoiy adolat va tenglik
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Foyda olishni maksimallashtirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tadbirkorlik erkinligi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkni himoya qilish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsialistik iqtisodiyotning asosiy kamchiligi nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Samaradorlikning pastligi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkning haddan tashqari kuchayishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tashqi savdo daromadlarining o‘sishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozor raqobatining oshishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marksizm g‘oyalariga ko‘ra, iqtisodiy inqirozlarning sababi nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Sinfiy ekspluatatsiya va bozorning beqarorligi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlatning haddan tashqari aralashuvi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkning yo‘qligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Ijtimoiy tengsizlikning yo‘qligi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Sotsializmda ishlab chiqarish vositalarining mulkdorligi kimga tegishli
-        bo‘ladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Davlat yoki jamiyatga
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Xususiy kompaniyalarga
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Shaxsiy tadbirkorlarga
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsialistik iqtisodiyotning asosiy iqtisodiy rejasini kim tuzadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Davlat rejalashtirish qo‘mitasi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy biznes vakillari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Xalqaro tashkilotlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bank tizimi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Utopik sotsialistlar kimlarni himoya qilishgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Mehnatkashlar va kam ta’minlanganlarni
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Boy savdogarlar va tadbirkorlarni
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Monopoliyalar va korporatsiyalarni
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xorijiy sarmoyadorlarni
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsialistik iqtisodiyotda iqtisodiy qarorlarni kim qabul qiladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Davlat tashkilotlari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy tadbirkorlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozor o‘yinchilari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xorijiy investorlar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsialistik iqtisodiy tizimning maqsadi qanday edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Ijtimoiy adolat va sinfsiz jamiyat qurish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkni kengaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Foyda olishni maksimallashtirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor raqobatini oshirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Sotsialistik iqtisodiyotda ishlab chiqarish natijalari qanday
-        taqsimlanadi?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Teng taqsimlanadi yoki ehtiyojga ko‘ra belgilanadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Raqobat orqali belgilanadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Foyda asosida taqsimlanadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy tadbirkorlar tomonidan boshqariladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya tarixiy ta’limotlarining asosiy tamoyili qaysi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Ijtimoiy rivojlanish tarixiy jarayonlarga bog‘liq
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkni kengaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlatning bozorga aralashmasligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Siyosiy barqarorlikni kuchaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya tarixiy maktabining asoschisi kim hisoblanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Vilgelm Rozcher
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Adam Smit
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Karl Marks
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Dovud Rikardo
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya tarixiy maktabining asosiy iqtisodiy nazariyasi nima edi?
-      </h1>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Tarixiy rivojlanish bosqichlari orqali iqtisodiy rivojlanish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorning erkin raqobatga asoslanganligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Sotsialistik iqtisodiy boshqaruv
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy sektorning davlat tomonidan nazorat qilinishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya tarixiy maktabi vakillari qaysi tamoyilni qo‘llab-quvvatlagan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Milliy iqtisodiy siyosat
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Xalqaro savdo erkinligi
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy kompaniyalar monopoliyasi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Moliyaviy liberallashtirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya tarixiy maktabiga ko‘ra, iqtisodiyot qanday rivojlanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Tarixiy va madaniy sharoitlarga qarab
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozor mexanizmlari orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkni milliylashtirish orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat inqilobidan mustaqil ravishda
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Germaniya tarixiy maktabi vakillarining iqtisodiy siyosatdagi maqsadi
-        qanday edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Davlat boshqaruvi orqali milliy iqtisodiyotni rivojlantirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Erkin bozor tamoyillarini rivojlantirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xorijiy investitsiyalarni jalb qilish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor raqobatini kuchaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya tarixiy maktabi qaysi omilga ko‘proq e’tibor bergan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Tarixiy va madaniy rivojlanish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozor talab va taklifi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat monopoliyalari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Savdo balansining oshishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Germaniya tarixiy maktabining fikricha, davlat iqtisodiyotda qanday rol
-        o‘ynashi kerak?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Faol boshqaruvchi va tartibga soluvchi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorda betaraf kuzatuvchi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat soliqlar yig‘uvchi organ
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Xususiy sektorga to‘liq erkinlik beruvchi
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          textAlign: "left"
-        }}
-      >
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya tarixiy maktabining vakillari orasida kim mashhur edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Gustav Shmoller
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Alfred Marshall
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Adam Smit
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Djon Keyns
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya tarixiy maktabiga ko‘ra iqtisodiy nazariyalar qanday
-        rivojlanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Har bir millatning tarixiy sharoitlari va madaniyatiga qarab
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Global iqtisodiy bozor tamoyillariga asoslanib
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat raqobat va bozor talabiga ko‘ra
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Xususiy sektorning rivojlanishiga ko‘ra
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya tarixiy maktabining asosiy nazariyasi qaysi mavzuga asoslangan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Milliy iqtisodiy siyosat va davlat aralashuvi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Erkin savdo va xalqaro hamkorlik
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulk va erkin bozor
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Boshqaruvni kamaytirish va liberallashtirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya tarixiy maktabi qanday siyosiy tuzumni qo‘llab-quvvatlagan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Davlat boshqaruviga asoslangan iqtisodiy tizim
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor erkinligini kengaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tadbirkorlik erkinligini himoya qilish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Xorijiy sarmoyalarni jalb qilish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Germaniya tarixiy maktabiga ko‘ra iqtisodiy nazariyalar qanday
-        o‘rganilishi kerak?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Tarixiy voqealar va madaniy rivojlanish orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor talab va taklifiga asoslanib
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat monopoliyalari tahliliga ko‘ra
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ijtimoiy tuzumlarni hisobga olmasdan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya tarixiy maktabining iqtisodiy siyosatga qarashi qanday edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Milliy iqtisodiy manfaatlarni himoya qilish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulk huquqlarini kengaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro savdo erkinligini kuchaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Raqobatni kuchaytirish va narxlarni liberallashtirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Germaniya tarixiy maktabi qanday iqtisodiy uslubni qo‘llagan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Empirik va tarixiy tahlil
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Matematik modellashtirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Global iqtisodiy tadqiqot
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor tasodiflariga asoslangan yondashuv
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tarixiy maktabning asosiy muammosi qanday hisoblangan?
-      </h1>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Iqtisodiy qonunlarni umumlashtirishning qiyinligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat bozorni boshqarish g‘oyalari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Global savdo siyosatini rivojlantirishdagi cheklovlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat sanoat rivojlanishiga e’tibor qaratish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Germaniya tarixiy maktabining iqtisodiy nazariyasida qaysi tahlil usuli
-        qo‘llanilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Tarixiy va empirik tahlil
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Matematik modellashtirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Eksperimental iqtisodiyot
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xorijiy sarmoyalar monitoringi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Germaniya tarixiy maktabining iqtisodiy nazariyasidagi asosiy tushuncha
-        qaysi edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Milliy iqtisodiy siyosat
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkning ustunligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat rivojlanishiga cheklovlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozorning o‘zini-o‘zi boshqarishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marjinalizm ta’limotining asosiy g‘oyasi nimaga asoslanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Cheklangan resurslardan maksimal foyda olish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozorni davlat tomonidan boshqarish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsialistik iqtisodiy siyosat
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Milliy iqtisodiy nazorat
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marjinal tahlilning asosiy tushunchasi nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Cheklangan foyda (marjinal foyda)
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Sanoat mahsulotlarini kengaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Narxlarni davlat tomonidan belgilash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tovar almashinuvi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Neoklassik iqtisodiy maktab vakillari orasida kim mashhur?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Alfred Marshall
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Karl Marks
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Vilgelm Rozcher
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Gustav Shmoller
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marjinalizm qaysi iqtisodiy masalani hal qilishga qaratilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Resurslarni optimal taqsimlash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor monopoliyalarini rivojlantirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat xarajatlarini oshirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Xalqaro savdo bitimlarini tuzish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marjinalizm va neoklassik maktab qaysi bozor mexanizmlariga asoslanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Talab va taklif
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat tomonidan boshqaruv
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Sotsialistik rejalashtirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro bitimlar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marjinalizmda qaysi mezon bo‘yicha qaror qabul qilinadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Cheklangan foyda va xarajat taqqoslanadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Ishlab chiqarish quvvatlari kengaytiriladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat subsidiyalari hisoblanadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Xorijiy sarmoyalar kiritiladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marjinalizm tushunchasining iqtisodiy nazariyadagi ahamiyati qanday?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qaror qabul qilishda cheklangan resurslarni hisobga olish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Milliy iqtisodiy siyosatni rivojlantirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat nazoratini kuchaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Monopoliyalarning rolini oshirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Neoklassik maktabga ko‘ra bozor qanday boshqariladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Bozor o‘zini-o‘zi boshqaradi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat boshqaruvi orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Markaziy rejalashtirish orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsialistik model orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Neoklassik iqtisodiyotda narx qanday belgilanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Talab va taklif orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat ko‘rsatmasi bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor monopoliyasi bilan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xorijiy investitsiyalar bilan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Alfred Marshallning qaysi asari neoklassik iqtisodiyotda asosiy manba
-        hisoblanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # "Iqtisodiyot tamoyillari"
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        "Kapital"
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        "Siyosiy iqtisodga kirish"
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        "Tarixiy tahlillar"
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marjinalizm qanday iqtisodiy qarashlarni o‘zgartirdi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Iqtisodiy tahlilning matematik asoslarini mustahkamladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorni to‘liq davlat nazoratiga o‘tkazdi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulkni yo‘q qildi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat monopoliyalarini kengaytirdi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marjinal analizning qaysi tamoyili muhim hisoblanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Cheklangan foyda va xarajatni solishtirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Ishlab chiqarish hajmini kengaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliq stavkalarini kamaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoat rivojini sekinlashtirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marjinalizm iqtisodiyotni qanday yondashuv bilan o‘rganadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Matematik va tahliliy yondashuv bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsiologik va tarixiy usullar bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat boshqaruvi orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro hamkorlik asosida
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Neoklassik maktab qaysi omilni e’tiborga oladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Talab, taklif va muvozanat narxi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat boshqaruvi va rejalashtirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ijtimoiy siyosat va rejalashtirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Monopoliyalarning kengayishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marjinalizm qaysi fanlar bilan bog‘liq?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Iqtisodiyot va matematika
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tarix va geografiya
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Sotsiologiya va adabiyot
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Biologiya va kimyo
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Neoklassik iqtisodiyotning asosiy vazifasi nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozor muvozanatini ta’minlash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat xarajatlarini kamaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sotsial siyosatni rivojlantirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Milliy iqtisodni yopish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Neoklassik maktab vakillari iqtisodiy o‘sishni qanday ta’riflaydi?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Resurslarni samarali taqsimlash orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat subsidiyalari orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Milliy mulkni kengaytirish orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor monopoliyalarini qo‘llab-quvvatlash orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marjinalizmning asosiy nazariyasi qanday jarayonlarni tushuntiradi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Qaror qabul qilish va resurs taqsimlash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat boshqaruvi va rejalashtirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro savdo va monopoliyalar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Xususiy mulk va davlat monopoliyalari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Institutsionalizm yo‘nalishi qaysi asosiy g‘oyaga tayanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Iqtisodiy institutlar va ularning jamiyatdagi o‘rni
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorni faqat davlat boshqaradi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Resurslarning maksimal samarali taqsimlanishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tovar va xizmatlarning ishlab chiqarish samaradorligi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Institutsionalizm nazariyasiga ko‘ra, iqtisodiy tizim qanday tavsiflanadi?
-      </h1>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Ijtimoiy, siyosiy va iqtisodiy institutlar o‘zaro bog‘langan tizim
-        sifatida
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat bozorda cheklangan resurslar mavjud
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat nazoratida bo‘lgan iqtisodiy tizim
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Individualistik iqtisodiy qarorlar asosida
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qaysi iqtisodchi instituttsionalizm yo‘nalishining asoschisi hisoblanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Thorstein Veblen
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Adam Smith
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        David Ricardo
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Karl Marks
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Institutsionalizmning asosiy e’tibori qaysi jihatlarga qaratilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Jamiyatda iqtisodiy va ijtimoiy institutlarning roli
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat individual va makroiqtisodiy qarorlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorning avtomatik ishlashi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Resurslarni eng samarali taqsimlash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Institutsionalizmning iqtisodiy tizimlar bilan bog‘liq asosiy ta’limoti
-        nimaga asoslanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Iqtisodiy institutlarning jamiyatdagi o‘rni va ularning iqtisodiy
-        jarayonlarga ta’siri
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorlarni davlat tomonidan boshqarish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro savdo va valyuta kurslarini boshqarish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Ijtimoiy himoya va davlat subsidiyalari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Thorstein Veblenning "ishlab chiqarish institutlari" haqidagi fikrlari
-        nima edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Jamiyatdagi iqtisodiy institutlar ishlab chiqarishning rivojlanishiga
-        asoslanadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat davlat iqtisodiyotga aralashishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorning o‘zi yetarli bo‘ladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Iqtisodiy institutlar jamiyatda bir xil taqsimlanadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Institutsionalizmga ko‘ra, iqtisodiy qarorlar qanday qabul qilinadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Iqtisodiy institutlar va ijtimoiy normallar asosida
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat individual manfaatlar asosida
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor talab va taklifining ta’sirida
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat tomonidan belgilanadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Institutsionalizmda iqtisodiy yuksalish qanday izohlanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Iqtisodiy institutlarning o‘sishi va rivojlanishi orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy mulk va kapitalning o‘sishi bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat subsidiyalarining oshishi orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro iqtisodiy aloqalar orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Institutsionalizmda qaysi tushuncha iqtisodiy faoliyatni izohlashda asosiy
-        rolni o‘ynaydi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Ijtimoiy va iqtisodiy institutlar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat sarmoyalari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Xususiy sektor va investitsiyalar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliq siyosati
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Veblenning "ishlab chiqarish" tushunchasi qanday izohlanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Jamiyatda ishlab chiqarish jarayonining ijtimoiy va iqtisodiy institutlar
-        orqali tashkil etilishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Ishlab chiqarishning faqat bozor mexanizmlari bilan boshqarilishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat xususiy sektorning rivojlanishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat tomonidan ishlab chiqarishning boshqarilishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Institutsionalizm iqtisodiyotida qaysi faktorlar jamiyat rivojiga ta’sir
-        qiladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Iqtisodiy institutlar va normallar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Yalpi ichki mahsulotning o‘sishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Milliy sarmoyalar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat byudjeti
-      </p>
-      <h1
-        style={{
-          paddingLeft: "41pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Javob: <span className="p">Iqtisodiy institutlar va normallar</span>
-      </h1>
-      <p style={{ paddingLeft: "41pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Veblenning iqtisodiy qarashlarida qaysi institutlarning roli muhimdir?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "16pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ textIndent: "0pt", textAlign: "left" }}>
-        <br />
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "16pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ textIndent: "0pt", textAlign: "left" }}>
-        <br />
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "1pt",
-          textIndent: "0pt",
-          lineHeight: "200%",
-          textAlign: "left"
-        }}
-      >
-        #Ishlab chiqarish va iste’mol institutlari Tovarlar va xizmatlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "1pt",
-          textIndent: "0pt",
-          lineHeight: "200%",
-          textAlign: "left"
-        }}
-      >
-        Davlat sektori va iqtisodiy siyosat Xalqaro iqtisodiy aloqalar
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Institutsionalizmga ko‘ra, iqtisodiy tizimni qanday boshqarish kerak?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Ijtimoiy va iqtisodiy institutlar o‘zaro hamkorlikda ishlashi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat davlat tomonidan boshqarilishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozor o‘z-o‘zini boshqarishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Iqtisodiy tizim to‘liq xususiy mulkka asoslanishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Qaysi o‘zgarishlar instituttsionalizmni kuchaytiradi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Ijtimoiy va iqtisodiy institutlarda yangilanishlar va o‘zgarishlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat bozordagi o‘zgarishlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat siyosatidagi islohotlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Xorijiy investitsiyalarning oshishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Institutsionalizmda bozor va davlat o‘rtasidagi muvozanat qanday
-        ta’riflanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Bozor va davlat o‘zaro muvofiqlashgan holda ishlaydi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat faqat bozorni nazorat qiladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor to‘liq erkin bo‘lishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat bozorni to‘liq boshqarishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Institutsionalizmning iqtisodiy tahliliga qanday yondashuvlar kiritilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Jamiyatning ijtimoiy va iqtisodiy strukturalarini tahlil qilish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat iqtisodiy omillarni tahlil qilish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat siyosatini alohida tahlil qilish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ijtimoiy psixologik tahlil qilish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Institutsionalizmni qanday iqtisodiy tizimlar qo‘llab-quvvatlagan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Aralash iqtisodiyot tizimlari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Bozor iqtisodiyotiga to‘liq asoslangan tizimlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Faqat markazlashgan iqtisodiyotlar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Sotsialistik iqtisodiyot tizimlari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Institutsionalizmning rivojlanishiga qaysi omillar ta’sir ko‘rsatdi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Ijtimoiy va iqtisodiy institutlarning o‘zgarishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Sanoatning rivojlanishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat davlat siyosati
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Xalqaro savdoning o‘sish
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        J. M. Keynsning iqtisodiy ta'limoti qanday nom bilan tanilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Keynschilik
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Merkantilizm
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Neoklassik iqtisodiy maktab
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Monetarizm
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keynschilik ta'limotining asosiy g‘oyasi nima edi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlatning iqtisodiyotga aralashishi zarurati
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozor o‘z-o‘zini tartibga soladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        O‘zaro savdo va resurslar almashinuvi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat xususiy sektor orqali iqtisodiy o‘sish
-      </p>
-      <p style={{ paddingLeft: "41pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          textAlign: "left"
-        }}
-      >
-        Keynschilik ta'limotiga ko‘ra, iqtisodiy inqirozda qaysi vosita muhim
-        ahamiyatga ega?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Davlat xarajatlarini oshirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliqlarni kamaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorni erkinlashtirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy investitsiyalarni oshirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Keynsning "General Theory" asarida qanday iqtisodiy muammo asosiy o‘rin
-        tutadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Ishsizlik va agregat talabning yetishmovchiligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Tovar ishlab chiqarish va savdo
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro valyuta almashinuvi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Resurslarning samarali taqsimlanishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keynschilik ta'limoti asosida qaysi iqtisodiy siyosat ishlab chiqilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Agregat talabni oshirish siyosati
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliqni kamaytirish siyosati
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Erkin bozor siyosati
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Xalqaro savdoni oshirish siyosati
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Keynschilikka ko‘ra, qanday holatlarda davlat iqtisodiyotga aralashishi
-        kerak?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Agregat talab yetarli bo‘lmagan va iqtisodiy inqiroz yuzaga kelgan
-        holatlarda
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor o‘z-o‘zini boshqarish imkoniyatiga ega bo‘lganda
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat inflyatsiya kuzatilgan paytlarda
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ishlab chiqarish to‘liq band bo‘lgan va bozor ta'minoti yetarli bo‘lgan
-        holatlarda
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Keynschilik ta'limotida agregat talabning pasayishi nima bilan bog‘liq?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Ishsizlikning oshishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor narxlarining o‘sishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro savdoning pasayishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat xarajatlarining kamayishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keynschilik ta'limoti qaysi iqtisodiy holatga e’tibor qaratadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Iqtisodiy inqiroz va resurslarning samarali ishlatilmasligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tovar ishlab chiqarishning ortiqcha oshishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro savdo va eksportning rivojlanishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Erkin bozorning kengayishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keynschilikka ko‘ra, qanday usul bilan iqtisodiy o‘sish mumkin?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Agregat talabni oshirish orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat xususiy sektor orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Xalqaro savdoni oshirish orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Soliqni kamaytirish orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keynsning fikriga ko‘ra, bozor o‘z-o‘zini tartibga solishi qanchalik
-        samarali?
-      </h1>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor o‘z-o‘zini tartibga solishda samarali emas, davlat aralashuvi zarur
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor o‘z-o‘zini to‘liq tartibga soladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozor o‘z-o‘zini tartibga soladi, ammo ba'zi tartibga solish zarur
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat bozorning erkin ishlashi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keynsning iqtisodiy inqirozga qarshi takliflari qanday?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Davlat xarajatlarini oshirish va soliqlarni kamaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozorni erkinlashtirish va tartibga solish
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy sektorga ko‘proq erkinlik berish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro investitsiyalarni jalb qilish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Keynsning iqtisodiy modelida iqtisodiyotda agregat talabni qaysi omillar
-        ta'sir qiladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Davlat xarajatlari, xususiy investitsiyalar va iste'mol
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat narxlar va ishlab chiqarish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tovar ishlab chiqarish va eksport
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat soliqlar va davlat byudjeti
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keynschilik ta'limoti qaysi iqtisodiy ijtimoiy vaziyatda samarali bo‘ladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Keng miqyosdagi iqtisodiy inqirozlar va ishlamagan bozorlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Xususiy sektor tomonidan to‘liq boshqarilgan iqtisodiyot
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Narxlarning erkin o‘zgarishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tovarlar va xizmatlarning erkin savdosi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keynschilik ta'limotida davlatning roli qanday?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Davlat iqtisodiyotda faol ishtirok etishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat iqtisodiyotdan mutlaqo chetlanishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat faqat iqtisodiy tahlilni amalga oshirishi kerak
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat bozorlarni faqat tartibga solishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keynschilik ta'limoti qaysi asosiy qoidaga asoslanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Bozorlarning samarali ishlashi uchun davlatning aralashuvi zarur
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozorlar o‘z-o‘zini boshqarish mumkin
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Iqtisodiy o‘sish faqat xususiy sektor yordamida amalga oshiriladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro aloqalar va savdo asosiy o‘rin tutadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keynschilikda iqtisodiy siyosatning asosiy maqsadi nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Agregat talabni oshirish orqali ish o‘rinlarini yaratish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro savdoni ko‘paytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xususiy sektorni kuchaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozor narxlarini erkinlashtirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Keynschilik ta'limoti qaysi iqtisodiy inqirozga qarshi qanday
-        yondashuvlarni taklif qiladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Iqtisodiy turg‘unlik va deflyatsiyani oldini olish uchun davlat
-        xarajatlarini oshirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozorlarni erkinlashtirish va xususiy sektorga erkinlik berish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat inflyatsiya va narxlar o‘stirilishini cheklash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro investitsiyalarning oshishi orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Keynschilikda iqtisodiyotdagi muammolarni hal qilish uchun qanday asosiy
-        yondashuv qo‘llaniladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Davlatning faol iqtisodiy siyosati va aralashuvi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorning erkin ishlashi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Tovar ishlab chiqarishni oshirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat xususiy sektor va investitsiyalar
-      </p>
-      <p style={{ textIndent: "0pt", textAlign: "left" }}>
-        <br />
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Nomukammal raqobatning qanday asosiy xususiyati bor?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Bozorda bir nechta ishlab chiqaruvchilar bo‘lishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bir necha iste'molchilar va ishlab chiqaruvchilar mavjudligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Monopoliyaning mavjudligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        O‘rta darajadagi bozor ta'siri
-      </p>
-      <p style={{ paddingLeft: "41pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Nomukammal raqobatning asosiy farqi nima?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Aksiyadorlar bozorida monopolistik va to‘liq raqobat mavjud
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Firmaning narx belgilash kuchi bo‘ladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat bitta ishlab chiqaruvchi bo‘ladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Raqobat bozorida raqobatchilar o‘rtasida mutlaqo tenglik mavjud
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Nomukammal raqobatda narxlar qanday belgilanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Barcha firmalar narxlarni belgilashda erkin
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Narxlar to‘g‘ridan-to‘g‘ri hukumat tomonidan belgilanadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Firmalar bozor narxini o‘zlari belgilaydi, ammo narxlar raqobatga
-        asoslangan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Narxlar raqobatni chegara bilan belgilaydi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Nomukammal raqobat bozorida firma qanday faoliyat ko‘rsatadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Narxlarni o‘zgartirib, foyda olishga harakat qiladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat narxlar o‘zgarmas bo‘ladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        O‘rta narxlar va soliqni kamaytirishga harakat qiladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Mahsulotlar to‘liq erkin savdo qilinadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Nomukammal raqobatning monopolistik turi qanday xususiyatga ega?
-      </h1>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Yagona firma bozorni boshqaradi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bir nechta firmalar o‘rtasida kuchli raqobat mavjud
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Mahsulotlar o‘zgarmas va teng bo‘ladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Narxlar faqat ishlab chiqaruvchi tomonidan belgilanadi
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Monopolistik raqobat bozorining qanday xususiyatlari mavjud?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Mahsulotlar o‘zgarmas va yagona
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat bitta firma bo‘ladi, lekin ko‘plab firmalar mavjud
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Ko‘plab firmalar bir xil tovarni ishlab chiqaradi
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Yagona firma o‘z monopoliyasini saqlab qoladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Nomukammal raqobatda firma qanday foyda olishi mumkin?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Narxni belgilab, mahsulotni yuqori narxda sotish orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat hukumatdan moliyaviy yordam olish orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        O‘rta narxlarni belgilab, raqobatchilardan farqlanish orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Mahsulotni yaxshilash orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Nomukammal raqobatda firmalar o‘rtasidagi farq qanday bo‘ladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Mahsulotlar bir xil bo‘ladi, lekin firmalar o‘rtasidagi raqobat mavjud
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Mahsulotlar teng bo‘ladi, ammo firmalar turli xil narxlar belgilaydi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Firmalar o‘rtasida raqobat yo‘q, faqat bitta firma bo‘ladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat bir xil narxlar va mahsulotlar mavjud
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Monopolistik raqobat bozorida firmalar qanday raqobat qiladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat narxlar orqali
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Mahsulotlarni sifat jihatidan yaxshilab, innovatsiyalar kiritib
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Raqobat faqat to‘g‘ri narx belgilash orqali amalga oshiriladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Mahsulotni yashirin sotish orqali
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Nomukammal raqobat bozorida ishlab chiqaruvchi firmalar qanday
-        yondashuvdan foydalanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Firmalar o‘z mahsulotlarining xususiyatlarini o‘zgartirib, farqlanishga
-        harakat qiladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Narxlarni pasaytirish orqali faqat sotishni oshirishadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Mahsulotlar narxlari faqat hukumat tomonidan belgilanadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Yagona tovar ishlab chiqaruvchi faqat monopolistik narxlarni o‘rnatadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Nomukammal raqobatning afzalliklari nimalardan iborat?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Firmaning innovatsiya va sifatni oshirishga bo‘lgan qiziqishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Firmaning yagona monopoliyada bo‘lishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Yagona narxni ishlab chiqaruvchi tomonidan belgilash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Tovarlar o‘zgarmas va homogen bo‘ladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Nomukammal raqobat bozorining qanday kamchiliklari mavjud?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Raqobat past darajada bo‘ladi, iste'molchilarni narxlar yuqori bo‘ladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat bitta firma mavjud bo‘ladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Bozorni to‘liq erkinlashtirish mumkin emas
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Firmaning narx belgilash kuchi yo‘q
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Monopolistik raqobatda ishlab chiqaruvchi firma nima uchun o‘z
-        mahsulotlarini farqlashga harakat qiladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Raqobatni kamaytirish va narxni oshirish uchun
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Mahsulotni o‘zgartirish orqali innovatsiyalar yaratish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat narxlarni pasaytirish orqali raqobat qilish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Firmaning bozor ulushini kamaytirish uchun
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Nomukammal raqobat bozorida ishlab chiqaruvchi firmalar narxlarni qanday
-        belgilashadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Narxlar firmalar tomonidan o‘zlarining narx belgilash kuchiga asoslanib
-        belgilanadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Narxlar davlat tomonidan belgilanadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Narxlar bozorning raqobat sharoitlariga qarab belgilanadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Narxlar faqat bir xil narxda belgilanadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Nomukammal raqobatning asosiy maqsadi nima?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorni erkinlashtirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Firmaning bozor ustunligini oshirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Monopoliyaning o‘rnatilishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tovarlarni yagona narxda sotish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Monopolistik raqobatni boshqa bozor shakllaridan ajratib turadigan
-        xususiyat nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Mahsulotlarning farqlanishi va reklama
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Faqat narxlarning o‘zgarmasligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Yagona firma narx belgilash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faol raqobat va talabni oshirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Nomukammal raqobat bozorida firmalar qanday pozitsiyada bo‘ladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Ular o‘zlarini monopolistik tarzda tutadi, lekin raqobat mavjud
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Faqat narxlarni belgilashda monopoliyaga ega bo‘ladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tovarlar faqat eksport qilinadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ular bir xil narxlar va mahsulotlar bilan ishlaydi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Nomukammal raqobatda narxlar qachon eng yuqori bo‘ladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Mahsulotlarning farqlanishi va raqobatning cheklanishi bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorning to‘liq erkinlashishi bilan
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro bozorlarning rivojlanishi bilan
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Mahsulotlar narxini davlat belgilash bilan
-      </p>
-      <p
-        style={{
-          paddingTop: "16pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          textAlign: "left"
-        }}
-      >
-        ++++
-      </p>
-      <p style={{ textIndent: "0pt", textAlign: "left" }}>
-        <br />
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Hozirgi zamon iqtisodiy qarashlar evolyutsiyasi qaysi davrda boshlandi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        XX asrning boshlarida
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # XIX asrning oxirlarida
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        XX asrning 80-yillari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        XX asrning 70-yillari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Hozirgi zamon iqtisodiy qarashlar evolyutsiyasining boshlang‘ich nuqtasi
-        sifatida qaysi ta'limotlar ko‘rib chiqiladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Klasik iqtisodiy maktab
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Merkantilizm
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Marksizm
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keyneschilik
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Hozirgi zamon iqtisodiy qarashlarning asosiy o‘zgarishi nima bilan
-        bog‘liq?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Iqtisodiy inqirozlar va globalizatsiya jarayonlari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Yangi texnologiyalar va raqobatning o‘sishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor iqtisodiyoti tamoyillarining kuchayishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat aralashuvining kamayishi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keyneschilik iqtisodiy maktabining asosiy ta'limoti nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Davlat aralashuvi orqali iqtisodiy muammolarni hal qilish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorni to‘liq erkinlashtirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tovarlarni taklif qilish asosida iqtisodiy o‘sish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Resurslarni taqsimlashning samarali usullari
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Keynsning iqtisodiy qarashlari qanday yondashuvni taklif etadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Iqtisodiy o‘sishning bozor kuchlari tomonidan boshqarilishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Iqtisodiy o‘sish uchun davlat tomonidan sarmoya kiritish
-      </p>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Raqobatni kuchaytirish orqali iqtisodiy taraqqiyot
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Hozirgi zamon iqtisodiy qarashlarning eng katta ta'siri nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Resurslar taqsimoti va bozor mexanizmlari
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Davlatning iqtisodiyotga bo‘lgan ta'siri va aralashuvi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Iqtisodiy taraqqiyotning tabiiy resurslarga bog‘liqligi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Yangi texnologiyalarning jamiyatga ta'siri
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Hozirgi zamon iqtisodiy qarashlarning "yangi iqtisodiyot" konsepsiyasining
-        asosiy jihati nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Xizmatlar va innovatsiyalar orqali iqtisodiy o‘sishni rag‘batlantirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tabiiy resurslarga asoslangan ishlab chiqarish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Ijtimoiy adolatni ta'minlash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozorni erkinlashtirish va davlatning aralashuvini kamaytirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Hozirgi zamon iqtisodiy qarashlarida bozor va davlatning o‘rni qanday
-        tasvirlanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Bozor erkin faoliyat yuritishi kerak, lekin davlat nazoratni amalga
-        oshirishi zarur
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat bozorni to‘liq boshqarishi kerak
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Bozor faqat o‘z kuchi bilan rivojlanishi mumkin
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat bozorni cheklash va nazorat qilishga intilishi kerak
-      </p>
-      <p style={{ paddingLeft: "41pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Iqtisodiy qarashlar evolyutsiyasi doirasida qaysi yangi maktab shakllandi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Neoklassik iqtisodiyot maktabi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Marxizm
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Ekologik iqtisodiyot maktabi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Institutsionalizm
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "3pt",
-          textAlign: "left"
-        }}
-      >
-        Hozirgi zamon iqtisodiy qarashlarda neoklassik iqtisodiyotning asosiy
-        maqsadi nima?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Bozorning samarali ishlashi va davlat aralashuvining minimalizatsiyasi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Iqtisodiy resurslarni davlat tomonidan taqsimlash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlatning iqtisodiy o‘sishdagi faol ishtiroki
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tabiiy resurslardan samarali foydalanish
-      </p>
-      <p style={{ paddingLeft: "41pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Iqtisodiy qarashlar evolyutsiyasida ekologik iqtisodiyot qanday
-        yondashuvni taklif etadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Tabiiy resurslar va ekologik barqarorlikni hisobga olgan holda iqtisodiy
-        faoliyatni boshqarish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Iqtisodiy o‘sishning to‘liq erkinlashuvi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlatning iqtisodiy faoliyatni to‘liq boshqarishi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Resurslar va ishlab chiqarishni to‘liq erkinlashtirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Hozirgi zamon iqtisodiy qarashlar evolyutsiyasida davlatning roli qanday
-        o‘zgargan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Davlat o‘zining aralashuvini kuchaytirdi va ijtimoiy muammolarni hal
-        qilishga qaratdi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat iqtisodiyotni to‘liq boshqarish va nazorat qilishni maqsad qilib
-        qo‘ydi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat faqat bozorni erkinlashtirishga harakat qiladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlatning iqtisodiyotdagi o‘rni deyarli yo‘q
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Hozirgi zamon iqtisodiy qarashlarda asosiy e'tibor nimalarga qaratilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Iqtisodiy o‘sishni davom ettirish va adolatni ta'minlash
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Yangi texnologiyalarni rivojlantirish va raqobatni kuchaytirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Yalpi ichki mahsulotni oshirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tabiiy resurslarni maksimal darajada sarflash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "3pt",
-          textAlign: "left"
-        }}
-      >
-        Hozirgi zamon iqtisodiy qarashlarida davlatning iqtisodiy o‘sishdagi roli
-        qanday tasvirlanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Davlat iqtisodiy o‘sishni rag‘batlantirish va bozorni erkinlashtirish
-        orqali o‘z rolini o‘ynaydi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat faqat iqtisodiy inqirozlar vaqtida aralashadi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Davlat o‘zining iqtisodiy ta'sirini kuchaytiradi, lekin bozorni
-        cheklamaydi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Davlat o‘zining iqtisodiy siyosatini faqat xalqaro savdo orqali amalga
-        oshiradi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Hozirgi zamon iqtisodiy qarashlarida qanday asosiy yondashuvlar mavjud?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Neoklassik va keynsian yondashuvlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Sotsialistik va ekologik yondashuvlar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Markist va ekologik yondashuvlar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Neoklassik va ekologik yondashuvlar
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Hozirgi zamon iqtisodiy qarashlarida inson resurslariga qanday yondashuv
-        mavjud?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Inson resurslari muhim omil sifatida ko‘riladi va ularning rivoji
-        iqtisodiy o‘sishni ta'minlaydi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Inson resurslari faqat ish kuchi sifatida qaraladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Inson resurslari faqat davlat tomonidan boshqariladi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Inson resurslari tabiiy resurslar bilan bir qatorda ishlatiladi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Hozirgi zamon iqtisodiy qarashlarida resurslar qanday taqsimlanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ textIndent: "0pt", textAlign: "left" }}>
-        <br />
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingTop: "16pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ textIndent: "0pt", textAlign: "left" }}>
-        <br />
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ textIndent: "0pt", textAlign: "left" }}>
-        <br />
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <p
-        style={{
-          paddingLeft: "1pt",
-          textIndent: "0pt",
-          lineHeight: "200%",
-          textAlign: "left"
-        }}
-      >
-        #Resurslar bozor kuchlari orqali samarali taqsimlanadi Resurslar faqat
-        davlat tomonidan taqsimlanadi Resurslar ijtimoiy adolat asosida
-        taqsimlanadi
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Resurslar bozor kuchlari va davlat aralashuvi bilan taqsimlanadi
-      </p>
-      <h1
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          textAlign: "left"
-        }}
-      >
-        Hozirgi zamon iqtisodiy qarashlarda iqtisodiy o‘sishning asosiy manbasi
-        nima deb hisoblanadi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #Innovatsiyalar va texnologiyalar
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Tabiiy resurslar va ijtimoiy adolat
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Xalqaro savdo va investits
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Qaysi Nobel mukofoti laureati "iqtisodiy shaxsiyat" va "oqilona qarorlar"
-        haqida o'zining g'oyalarini taqdim etgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Milton Friedman
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Joseph Stiglitz
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Robert Shiller
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Friedrich Hayek
-      </p>
-      <p style={{ paddingLeft: "41pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Kim 2001-yilda Nobel mukofotini "iqtisodiy rivojlanish va qashshoqlikni
-        kamaytirish" yo'nalishidagi ishlari uchun qo'lga kiritdi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Joseph Stiglitz
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Amartya Sen
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Robert Mundell
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Gary Becker
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Qaysi Nobel mukofoti laureati "bozor iqtisodiyoti va liberalizatsiyaning
-        samarali ishlashining" eng yaxshi tarafdori sifatida tanilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Paul Samuelson
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Milton Friedman
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Daniel Kahneman
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Robert Shiller
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        2009-yilgi Nobel mukofoti laureati qanday g'oyalar bilan mashhur?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Riskni boshqarish va psixologik omillarni iqtisodiy modellashtirish
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Iqtisodiy inqirozlarni rag'batlantirish
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Makroiqtisodiy tahlil va davlat boshqaruvi
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Resurslarni erkin bozor asosida taqsimlash
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Qaysi Nobel mukofoti laureati "iqtisodiy boshqaruv" sohasidagi ishlari
-        uchun 1998-yilda mukofotlandi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Amartya Sen
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Elinor Ostrom
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Robert Mundell
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        George Akerlof
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Qaysi Nobel laureati 2005-yilda "ma'lumotlarni asimmetriyasi va uning
-        iqtisodiyotga ta'siri" haqida tadqiqotlari uchun mukofotlandi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Joseph Stiglitz
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        #George Akerlof
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Robert Shiller
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Elinor Ostrom
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Qaysi Nobel laureati "iqtisodiy tahlil va samarali qarorlar qabul qilishda
-        inshootlarning roli"ni ta'kidladi?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Elinor Ostrom
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Gary Becker
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Joseph Stiglitz
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Paul Samuelson
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Qaysi Nobel mukofoti laureati bozorni o‘rganish va xususiylashtirish bilan
-        bog‘liq g‘oyalar bilan tanilgan?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Robert Shiller
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Milton Friedman
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Ronald Coase
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Paul Samuelson
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Qaysi Nobel mukofoti laureati "boshqaruv va iqtisodiyoti" sohasida
-        innovatsiyalarni ishlab chiqqan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Paul Samuelson
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Jean Tirole
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Robert Shiller
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Daniel Kahneman
-      </p>
-      <p style={{ paddingLeft: "41pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Qaysi Nobel mukofoti laureati psixologiya va iqtisodiyotning kesishgan
-        sohasida ishlari bilan mashhur?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Robert Shiller
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Daniel Kahneman
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Amartya Sen
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Joseph Stiglitz
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Qaysi Nobel laureati "g‘arazli xulq-atvor" va "oqilona qarorlar"
-        sohasidagi ilmiy ishlar uchun tanilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Daniel Kahneman
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Gary Becker
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Robert Shiller
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Joseph Stiglitz
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Qaysi Nobel mukofoti laureati iqtisodiy o‘sish, rivojlanish va ijtimoiy
-        adolatni bog‘lashda ishlari bilan mashhur?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Paul Samuelson
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Amartya Sen
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Robert Mundell
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Gary Becker
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Qaysi Nobel mukofoti laureati "ma'lumot asimmetriyasi" tushunchasini
-        ilgari surgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Joseph Stiglitz
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        George Akerlof
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Robert Shiller
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Paul Samuelson
-      </p>
-      <p style={{ paddingLeft: "41pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        2003-yilda Nobel mukofoti laureati bo‘lgan, iqtisodiy xarajatlar va
-        ijtimoiy adolat masalalarini ko‘rib chiqqan shaxs kim?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Amartya Sen
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Robert Shiller
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Milton Friedman
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Elinor Ostrom
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "39pt", textAlign: "left" }}>
-        Qaysi Nobel laureati iqtisodiy nazariyalarni psixologik faktlar bilan
-        bog‘lashni boshlagan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        #Daniel Kahneman
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Gary Becker
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Robert Shiller
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        George Akerlof
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "3pt", textAlign: "left" }}>
-        Qaysi Nobel mukofoti laureati iqtisodiy o‘yinlar nazariyasining
-        rivojlanishiga katta hissa qo‘shgan?
-      </h1>
-      <p
-        style={{
-          paddingTop: "3pt",
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Jean Tirole
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Gary Becker
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Robert Shiller
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Amartya Sen
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Qaysi Nobel laureati iqtisodiy tahlil orqali ijtimoiy masalalarga
-        yechimlar topishga harakat qilgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        George Akerlof
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        # Elinor Ostrom
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Paul Samuelson
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Joseph Stiglitz
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        ++++
-      </p>
-      <h1 style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Qaysi Nobel mukofoti laureati "iqtisodiy nazariyalar"ni ijtimoiy va
-        psixologik xulq-atvor bilan birlashtirgan?
-      </h1>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        # Daniel Kahneman
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
-        Milton Friedman
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p
-        style={{
-          paddingLeft: "9pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        Joseph Stiglitz
-      </p>
-      <p
-        style={{
-          paddingLeft: "5pt",
-          textIndent: "0pt",
-          lineHeight: "16pt",
-          textAlign: "left"
-        }}
-      >
-        ====
-      </p>
-      <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
-        Paul Samuelson
-      </p>
-    </>
-  )
-  
+  <>
+    <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>9547a581-2efd-45e7-9331-b1fc1b11f4dc</title>
+    <meta name="author" content="Пользователь" />
+    <style
+      type="text/css"
+      dangerouslySetInnerHTML={{
+        __html:
+          ' * {margin:0; padding:0; text-indent:0; }\n .s1 { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 12pt; }\n p { color: black; font-family:"Times New Roman", serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; margin:0pt; }\n .s2 { color: black; font-family:Calibri, sans-serif; font-style: normal; font-weight: normal; text-decoration: none; font-size: 11pt; }\n'
+      }}
+    />
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "11pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Qaysi iqtisodiy maktab "tabiatda mavjud bo'lgan ijtimoiy tartiblarni"
+      o'rgangan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Merkantilistlar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Klassiklar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Marksizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Keyneschiligi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "11pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smitning iqtisodiyotga oid asarining nomi nima?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      "Kapital"
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #"Xalq boyligi"
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      "Sotsiologiya"
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      "Birinchi iqtisodiy tamoyillar"
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "11pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Marksa nazariyasiga ko'ra, kapitalizmning oxirgi bosqichi qanday
+      nomlanadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Feodalizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Sotsializm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Kommunizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Neoliberalizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "5pt", textIndent: "6pt", textAlign: "left" }}
+    >
+      Kim iqtisodiyotda davlatning aralashuvini cheklashni, bozorni
+      erkinlashtirishni qo'llab- quvvatlagan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "5pt", textIndent: "6pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimoti bo'yicha "arzonlashtirish" va "bozor
+      tarmoqlari" konseptsiyalari mavjud?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Smit
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "11pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Keynesning iqtisodiy talimoti asosida qaysi iqtisodiy tizim mavjud?
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Sotsializm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kapitalizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Sosial-demokratik kapitalizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Rejalashtirilgan iqtisodiyot
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "11pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qaysi iqtisodiy talimotga ko'ra, ishchilar mehnati kapitalning asosiy
+      manbai hisoblanadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Klassiklar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Marksizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Neoklassiklar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Monetarizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "11pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardoning nisbiy xarajatlar nazariyasiga ko'ra, iqtisodiy foyda
+      nima bilan belgilanadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "26pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Ishlab chiqarishning narxlari bilan
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Iste'molning talabiga ko'ra
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Erkin bozor tarmog'i bilan
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Ishlab chiqarishning samaradorligi bilan
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "11pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Merchantsizm nazariyasiga ko'ra, iqtisodiy manfaatlarni qanday amalga
+      oshirish kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Tovarlar va xizmatlar erkin savdosi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Tovarlar eksporti va oltin zaxirasining oshirilishi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Davlat aralashuvi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Ishlab chiqarishdagi raqobatni kuchaytirish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "11pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Jeyms Millning iqtisodiy nazariyalarida nima ta'kidlangan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Davlat iqtisodiyotga to'liq aralashishi kerak
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Bozor o'zini o'zi tartibga solishi kerak
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Iqtisodiyotda davlatning cheklangan roli
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kapitalizmning shafqatsizligi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kim bozorning erkinligini ta’minlash uchun "invisible hand" (ko'rinmas
+      qo'l) kontseptsiyasini ilgari surgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      "Kapital" asari kim tomonidan yozilgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Feodalizmning iqtisodiy tizimida eng asosiy resurs nima edi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kapital
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Yer
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Mehnat
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Oltin
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning fikriga ko'ra, iqtisodiyotdagi davlatning asosiy vazifasi to'liq
+      ish bilan ta'minlashdir?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Neoklassik iqtisodiyot nazariyasining asoschilaridan biri kim?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Alfred Marshall
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qaysi iqtisodiy maktab "bazarni erkin tarkibni saqlab qolish"ni
+      ta’kidlagan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Merkantilistlar
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Neoklassiklar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Marksistlar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Keyneschilar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qaysi iqtisodchi davlat aralashuvini bozorning barqarorligi uchun zarur
+      deb hisoblagan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Iqtisodiyotda "supply-side" (taqdimot tomonidagi) iqtisodiy maktabni qaysi
+      iqtisodchi ilgari surgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Arthur Laffer
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qaysi iqtisodiy tizimda ishlab chiqarish vositalari davlat tomonidan
+      nazorat qilinadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kapitalizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Sotsializm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Feodalizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Mercantilizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      "Tez-tez oraliq davlat aralashuvi iqtisodiyotning samaradorligini
+      oshiradi" degan fikrni qaysi iqtisodchi ilgari surgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Marksist iqtisodiyotga ko'ra, kapitalizmda qanday sinf kurashi bo'ladi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kichik ishlab chiqaruvchilar va tovar iste’molchilar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Ishchilar va kapitalistlar
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qishloq va shahar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Yirik fermerlar va kulllar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kim "klassik iqtisodiyot"ni asosiy ravishda iqtisodiy nazariyani "tabiatda
+      o'zini o'zi boshqaruvchi" deb hisoblagan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Klassik iqtisodiy ta’limotda muhim tushuncha bo'lgan "labour theory of
+      value" (mehnat nazariyasi) kim tomonidan ilgari surilgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      "Bozorni tartibga solishning eng yaxshi yo'li - hukumatning minimal
+      aralashuvi" degan qarash qaysi iqtisodchi maktabiga tegishli?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Neoklassiklar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Keyneschilar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Merkantilistlar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Monetaristlar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Sotsializm nazariyasiga ko'ra, asosiy ishlab chiqarish vositalari kimga
+      tegishli bo'lishi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Individual shaxslar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Davlat
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Xususiy sector
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kichik biznes egalari
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotida "Bozorlarning raqobatli tuzilishi"
+      tushunchasi kiritilgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning nazariyasiga ko'ra, kapitalizmda boylik va kuchning to'planishi
+      faqat ozgina odamlarning qo'lida bo'ladi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy qarashlariga ko'ra, mehnat kuchining ekspluatatsiyasi
+      kapitalizmning asosiy xususiyatidir?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Alfred Marshall
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Neoliberalizm nazariyasiga ko'ra, davlat qanday ro’l o’ynashi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Ijtimoiy yordamni taqdim etish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Bozorda raqobatni cheklash
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Iqtisodiy erkinlikni ta’minlash
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Ishlab chiqarishni boshqarish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qaysi iqtisodiy maktab bozorning o'zini o'zi tartibga solishini va
+      davlatning minimal roli borligini ta’kidlaydi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Keyneschiligi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Monetarizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      # Neoklassiklar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Marksizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning fikriga ko'ra, iqtisodiyotda "inson manfaatlari" eng katta
+      ahamiyatga ega?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Sotsializmning iqtisodiy tizimida quyidagi qaysi omil asosiy o'rinda
+      turadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Shaxsiy erkinlik
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Davlat egaligi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Bozor raqobati
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Xususiy mulk
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotida "ozod bozor" va "erkin savdo" ta’kidlangan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kim "ishlab chiqarishning butun iqtisodiy jarayoni bo'ylab kapitalizmni
+      tushuntirish"da muvaffaqiyatga erishgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Alfred Marshall
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Iqtisodiyotda "supply-side" (taqdimot tomoni) iqtisodiy maktabining asosiy
+      g'oyasi nima?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Bozorni hukumat nazorat qilishi kerak
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Davlatning iqtisodiyotga aralashuvi kam bo'lishi kerak
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Pul-kredit siyosatini kuchaytirish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Bozor iqtisodiy tizimni o'z-o'zidan tartibga solidi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Marksa nazariyasiga ko'ra, kapitalizmda qanday iqtisodiy ijtimoiy sinf
+      mavjud?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Ishchilar va kapitalistlar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qishloq va shahar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Kichik va yirik ishlab chiqaruvchilar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Davlat va xususiy sector
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynesning iqtisodiy tizimi qanday ko'rsatmalarni taqdim
+      etgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Davlat iqtisodiyotga aralashmasligi kerak
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Davlatning iqtisodiyotga faol aralashuvi kerak
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Bozor o'z-o'zidan muvozanatga erishadi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kapitalizmni rad etish kerak
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Iqtisodiy bozorning ko'plab sektorlarida "muvaffaqiyatli bozor"ni
+      ta’minlash qaysi iqtisodiy talimotga tegishli?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Keyneschiligi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Monetarizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Neoliberalizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Sotsializm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qaysi iqtisodiy maktab bozor va iqtisodiy jarayonlarni maksimal darajada
+      erkin bo'lishini ta’kidlaydi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Monetarizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Neoklassiklar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Keyneschilar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Marksizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Sotsializmni ishlab chiqishda qaysi iqtisodchi asosiy ta'sir ko'rsatgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Neoliberalizmda iqtisodiy o'sish uchun qanday prinsip asosiy hisoblanadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Ishlab chiqarishning samaradorligini oshirish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Davlat aralashuvini kamaytirish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Kapitalni kamaytirish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Foyda va ish haqini tenglashtirish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy nazariyasiga ko'ra, tovarlar narxi mehnat qiymati bilan
+      belgilanadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qaysi iqtisodchi bozorlar o'rtasidagi savdoni va davlatning
+      iqtisodiyotdagi aralashuvini ta’kidlagan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy nazariyasiga ko'ra, kapitalizmda ishlab chiqarish
+      vositalari faqat ozgina odamlarning qo'lida bo'ladi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qaysi iqtisodchi bozor va iqtisodiyotdagi davlat rolini minimal darajada
+      cheklashni ta’kidlagan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotida erkin bozor tizimiga asoslangan kapitalizmga
+      qarshi fikrlar mavjud?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Bozor iqtisodiyotida ishlab chiqarishning samaradorligi qaysi faktor
+      orqali oshadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Davlatning ko'proq aralashuvi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Foyda olishning kamayishi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Resurslarni optimal taqsimlash
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Hukumatning narxlarni nazorat qilishi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy qarashlariga ko'ra, pul-kredit siyosati iqtisodiyotdagi
+      barqarorlikni ta’minlashda muhim rol o'ynaydi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qaysi iqtisodiy maktabda "bozor o'z-o'zidan muvozanatga erishadi" degan
+      fikr ilgari surilgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Neoklassiklar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Keyneschilar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Monetaristlar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Marksistlar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      "Kapitalizmda ishlab chiqarish vositalari faqat xususiy sektor tomonidan
+      boshqariladi" degan fikrni kim ilgari surgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy qarashlariga ko'ra, bozor iqtisodiy tizimi o'zini o'zi
+      tartibga soladi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Marksa nazariyasida kapitalizmni o'zgartirishning asosiy yo'li qanday
+      nomlanadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Feodalizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Demokratik islohotlar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Sotsializm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kommunizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy qarashlariga ko'ra, bozorlar kapitalizmda ishlab
+      chiqarish vositalarini o'z ichiga oladi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Keynesning iqtisodiy talimotida qanday asosiy fikr mavjud?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Davlat iqtisodiyotga minimal aralashishi kerak
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Davlat iqtisodiyotga aralashishi kerak
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kapitalizmning tarmoqlarini xususiylashtirish kerak
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Bozorni davlat nazorat qilish kerak
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Sotsializmda ishlab chiqarish vositalarining egaligi kimga tegishli
+      bo'ladi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Davlat
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Shaxslar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Xususiy sector
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Bozor
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      "Xalq boyligi" asari kim tomonidan yozilgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotiga ko'ra, kapitalizmda mehnatning qiymati ishlab
+      chiqaruvchi kuchlarning rivojlanishiga bog'liq?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Alfred Marshall
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Monetarizmda pul miqdori qanday rol o'ynaydi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Bozorni tartibga solish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Narxlarni nazorat qilish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Iqtisodiy o'sishni oshirish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Ishsizlarni kamaytirish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Sotsializmda davlatning roli qanday?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Davlat to'liq iqtisodiy tizimni boshqaradi
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Davlat faqat bozorni tartibga solidi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Davlat faqat xususiy sektorni qo'llab-quvvatlaydi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Davlat faqat qishloq xo'jaligini boshqaradi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotiga ko'ra, kapitalizmda ishlab chiqarish
+      vositalarining xususiy egaligi muhim o'rin tutadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy nazariyasiga ko'ra, iqtisodiyotda davlat aralashuvi
+      faqat zarur hollarda bo'lishi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning fikriga ko'ra, kapitalizmning davom etishi uchun mehnat qiymati va
+      foyda o'rtasidagi tenglik zarur?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qaysi iqtisodchi iqtisodiyotda davlatning aralashuvini ijobiy deb
+      hisoblagan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy qarashlariga ko'ra, sotsializmda ishlab chiqarish
+      vositalarini ijtimoiy egalik qilish kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      "Monetarizm" iqtisodiy tizimi kim tomonidan ishlab chiqilgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kim iqtisodiy nazariyasida davlatning bozorga aralashishini cheklashni
+      ta’kidlagan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning fikriga ko'ra, kapitalizmda ishlab chiqarish vositalarining
+      egaligi va nazorati faqat ozgina shaxslar qo'lida bo'ladi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy qarashlariga ko'ra, kapitalizmda bozorda raqobat
+      bo'lishi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Keynesning iqtisodiy talimotida bozor o'z-o'zidan muvozanatga erishmaydi.
+      Buning uchun davlatning iqtisodiyotga faol aralashuvi zarur. Bu fikr
+      qanday nazariyaga asoslanadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Neoklassik iqtisodiyot
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Keyneschilar iqtisodiy nazariyasi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Monetarizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Marksizm
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning fikriga ko'ra, kapitalizmda ishlab chiqarish vositalarining
+      xususiy mulk sifatida saqlanishi muhimdir?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy nazariyasiga ko'ra, kapitalizmda ishlab chiqarish
+      vositalari faqat xususiy mulk bo'lishi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Qaysi iqtisodchi bozorning ishlashini erkin raqobat asosida tushuntirgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ===
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Sotsializmda qanday asosiy tamoyil mavjud?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Xususiy mulkni saqlab qolish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Ishlab chiqarish vositalarini davlatga qarashli qilish
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Davlatning iqtisodiy tizimga minimal aralashuvi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Bozorni erkin raqobatga asoslash
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotiga ko'ra, kapitalizmda davlatning iqtisodiyotga
+      kam aralashuvi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning fikriga ko'ra, kapitalizmda ishchilar o'z mehnatlarini faqat ish
+      beruvchilarga sotishi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy nazariyasiga ko'ra, kapitalizmda ishlab chiqarish
+      vositalari faqat ozgina guruhlarning nazoratida bo'ladi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotida "bozorning ko'rinishi" va "bozor narxlari"
+      tushunchalari asosiy o'rin tutadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      =====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Alfred Marshall
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotiga ko'ra, davlat har doim iqtisodiyotga faollik
+      ko'rsatishi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy qarashlariga ko'ra, erkin bozor orqali iqtisodiy
+      muvozanat o'rnatiladi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Iqtisodiyotda davlatning o'rni eng kam bo'lishi kerak degan fikrni kim
+      ilgari surgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy qarashlariga ko'ra, bozorni erkin raqobat asosida
+      tartibga solish zarur?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      "Tovarlar va xizmatlar narxini erkin bozor belgilaydi" degan fikrni kim
+      ilgari surgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy nazariyasiga ko'ra, bozorlar qaysi asosda ishlaydi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Tabiiy resurslar asosida
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Raqobat asosida
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Davlat tomonidan boshqariladi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Mehnat qiymati asosida
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotida ishlab chiqarish vositalarini ijtimoiy egalik
+      qilish kerak degan fikr ilgari surilgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy qarashlariga ko'ra, iqtisodiy o'sish davlatning
+      aralashuvi orqali amalga oshirilishi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning fikriga ko'ra, kapitalizmda ishlab chiqarish vositalarining
+      monopoliyasini davlat nazorat qilishi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotiga ko'ra, tovar va xizmatlar qiymati mehnat
+      kuchi orqali belgilanadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy nazariyasiga ko'ra, narxlarni bozorning talab va taklif
+      o'rtasidagi muvozanat belgilaydi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy qarashlariga ko'ra, kapitalizmda davlatning roli
+      cheklangan bo'lishi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Iqtisodiyotda davlatning faolligi zarur degan fikrni kim ilgari surgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy nazariyasiga ko'ra, kapitalizmda bozor narxlari erkin
+      raqobat va talabga asoslanadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotida "ishlab chiqarish vositalari faqat mehnat
+      tomonidan yaratilgan qiymatni taqsimlash orqali tartibga solinadi" degan
+      fikr ilgari surilgan?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy qarashlariga ko'ra, kapitalizmda ishlab chiqarish
+      vositalari davlatga qarashli bo'lishi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Keynesning iqtisodiy nazariyasida davlat qanday rol o'ynaydi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Bozorni to'liq nazorat qiladi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Faol ishtirok etadi va iqtisodiy o'sishni qo'llab-quvvatlaydi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Iqtisodiyotga hech qanday aralashuvni taqiqlaydi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Davlat xususiy sektorni nazorat qiladi
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotiga ko'ra, kapitalizmda mehnatning qiymati faqat
+      ishlab chiqarish vositalariga qarab belgilanadi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy nazariyasiga ko'ra, bozorni erkin raqobat va minimal
+      davlat aralashuvi bilan boshqarish kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy talimotiga ko'ra, kapitalizmda ishlab chiqarish
+      vositalarining egaligi va nazorati faqat ozgina shaxslar qo'lida bo'lishi
+      kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy qarashlariga ko'ra, kapitalizmda bozorlarni erkin
+      raqobat boshqaradi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Kimning iqtisodiy nazariyasiga ko'ra, bozor iqtisodiyoti butun dunyo
+      bo'ylab barcha mamlakatlarda ishlashi kerak?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      David Ricardo
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #Adam Smith
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p
+      className="s1"
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      "Iqtisodiyotda davlat faqat makroiqtisodiy tizimni boshqaradi, xususiy
+      sektor esa ishlab chiqarish va tarqatish mas'uliyatini o'z zimmasiga
+      oladi" fikri kimning nazariyasiga to'g'ri keladi?
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Milton Friedman
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      #John Maynard Keynes
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Friedrich Hayek
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ====
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Karl Marks
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s1"
+      style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizm ta'limoti qaysi asrda yuzaga keldi va qanday
+      sotsial-iqtisodiy sabablarga turtki bo'ldi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      XVIII asr, savdo kapitalining rivoji
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #XV asr, feodalizmning yemirilishi va geografik kashfiyotlar
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      XVII asr, sanoat inqilobi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      XVI asr, mustamlakachilik tizimi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizmning asosiy maqsadi nima edi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Yangi iqtisodiy tizim yaratish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Yevropada qishloq xo'jaligini rivojlantirish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Davlatga ko'proq oltin va kumush keltirish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Bozor munosabatlarini tartibga solish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Xristofor Kolumbning Amerika qit’asini ochishi natijasida qanday xato yuz
+      berdi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Kolumb o’zini Hindistonda deb o’ylagan
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kolumb yangi qit’ani kashf qilgani uchun dunyo xaritasi o'zgartirildi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kolumb Hindistonni kashf etdi, lekin qit'a nomi o'zgartirilmadi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      =====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kolumb yangi yerlarni kashf qilganda, u yerdagi boyliklar topilmadi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizm davrida Yevropa davlatlarining o'rtasida qanday iqtisodiy
+      kurashlar yuz berdi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Savdo yo'llarini boshqarish uchun kurash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Mustamlakalar ustidan iqtisodiy ta'sir o'rnatish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Oltin va kumush zahiralarini ko'paytirish uchun raqobat
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Xom ashyo narxlarini nazorat qilish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizm ta'limoti rivojlanishi bilan qanday yangi iqtisodiy
+      jarayonlar boshlanib ketdi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Sanoat kapitalining shakllanishi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Kapitalning dastlabki jamg'arilish jarayoni
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Savdo kapitalining kamayishi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Qishloq xo'jaligida inqilob qilish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizmning birinchi davrining asosiy xususiyati nima edi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Iqtisodiy o‘sishni qo‘llab-quvvatlash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Tashqi savdoni faollashtirish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Pul miqdorini oshirish va qimmatbaho metallarni yig‘ish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Mehnat taqsimoti va kooperatsiyani rivojlantirish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizmga ko‘ra, boylikning asosi nima deb qaraladi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Mehnatning qiymati
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Qimmatbaho metallar va pul
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Iste'mol qiymati
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapital jamg‘arish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Tomas Mann (1571-1641) ning savdo balansi nazariyasiga ko‘ra, qanday
+      iqtisodiy siyosat eng samarali hisoblanadi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Eksportni oshirish va importni cheklash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Tashqi savdoga aralashmaslik
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Erkin savdoni qo‘llab-quvvatlash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Hamma savdo mablag‘larini davlat qo‘liga olish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizmning rivojlanishi davrida qanday iqtisodiy tizimdan
+      foydalangan?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Manufaktura tizimi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Feodalizm
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kommunizm
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalizm
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizmning asosiy tamoyillaridan biri nima edi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Oltin va kumushning miqdorini kamaytirish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Xalqaro savdoga cheklovlar o‘rnatish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Savdo balansi faol bo‘lishi kerak
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Sanoat ishlab chiqarishni tartibga solmaslik
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizmning nazariy asosiga ko‘ra, boylikning "noekvivalent"
+      almashinuvi qanday tushuniladi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Boyliklar teng bo‘lgan almashuv
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Boyliklar faqat mehnat orqali o‘zgartiriladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Savdo orqali boyliklar o‘zgaradi, lekin qiymat teng bo‘lmaydi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Boyliklar iqtisodiy tartibga solinadi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizmda pul va qimmatbaho metallarni to‘plashning maqsadi nima edi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Ijtimoiy tenglikni ta'minlash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Davlat boyligini oshirish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Savdoni cheklash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Mehnat resurslarini samarali ishlatish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizmning iqtisodiy siyosatida eksportni rag‘batlantirish qanday
+      usullardan foydalanilardi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Tashqi savdo faoliyatini cheklash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Mahsulotlar eksporti uchun subsidiyalar berish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Mehnat sharoitlarini yaxshilash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Importni kamaytirish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Fransiyada Kolber tomonidan amalga oshirilgan merkantilizm siyosati qanday
+      nom bilan ataladi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Feodalizm
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Kolberizm
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kameralizm
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalizm
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizmning XX asrda yirik iqtisodiy tizim sifatida tarix sahnasidan
+      tushib qolishining asosiy sababi nima edi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Mehnatni muvofiqlashtirish va ishlab chiqarishni rag'batlantirishning
+      samarali usul bo'lmaganligi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Sanoat inqilobi va ishlab chiqarishning yangi shakllarining rivojlanishi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalizmning tez rivojlanishi va bank tizimlarining mustahkamlanishi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Iqtisodiy shartnoma va proteksionizmning kuchayishi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      A.Smitning merkantilizmga qarshi aytgan fikrlaridan biri nima edi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      "Boylik faqat oltin va kumush bilan o'lchanadi"
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      "Xarajatlar daromadga teng bo'lishi kerak"
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #"Sof boylik aslida pulga egalikdan iborat"
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      "Har bir davlatning eksporti importidan kam bo'lishi kerak"
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Jon Lo ning iqtisodiy nazariyasida eng muhim tamoyil nima edi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Oltin va kumushning iqtisodiy boylikni tashkil qilishiga ishonish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Banknotlar va kreditlarni iqtisodiy taraqqiyotning asosiy omili deb
+      bilish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Iste'mol va ishlab chiqarishning cheklanganligini hisobga olish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Mehnatni faqat qishloq xo'jaligiga yo'naltirish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Jon Lo ning bank tizimi va kredit siyosatiga qo'ygan yondashuvi qanday
+      oqibatlarga olib kelishi mumkin edi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Bank tizimi barqaror rivojlanishiga olib keladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Kreditning ortiqcha kengayishi va bank tizimining barqaror bo'lmasligi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Har bir yangi kredit davlat tomonidan nazorat qilinadi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Banklar faqat oltin zaxiralaridan foydalanishi kerak
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      J. M. Keyns merkantilizmning qaysi g'oyalarini qo'lladi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Sanoat taraqqiyotini cheklashni taklif etdi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Importni kamaytirish va eksportni oshirishni qo'llab-quvvatladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Pul massasini kamaytirish va bozorni erkinlashtirishni taklif etdi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Davlatning iqtisodiyotga aralashmasligi kerakligini ta'kidlagan
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      V.Petti kim tomonidan asos solingan iqtisodiy maktabning asoschisi
+      sifatida tanilgan?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Fransiya klassik maktabi
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Angliya klassik iqtisodiy maktabi
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Markantilizm
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Marksizm
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      V.Petti qanday ilmiy yo'nalishlardan foydalanib iqtisodiy tahlilni amalga
+      oshirdi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Statistik va matematik metodlardan
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Psixologik metodlardan
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Siyosiy metodlardan
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Metafizik metodlardan
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      V.Petti qaysi iqtisodiy tushunchani ishlab chiqdi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Mehnat nazariyasi
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Foyda nazariyasi
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Qiymat va talab nazariyasi
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Ishlab chiqarish nazariyasi
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      V.Petti iqtisodiyotda nima bilan bog'liq ravishda "tabiiy baho" va
+      "siyosiy baho" tushunchalarini ajratdi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Savdo va import-eksport bilan
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Mehnat miqdori va sarflangan mehnat bilan
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Moliyaviy muammolar bilan
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Sanoat rivojlanishi bilan
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      V.Petti o'zining iqtisodiy tadqiqotlarida qanday asosiy metodologiyani
+      qo'llagan?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Empirizm
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Idealizm
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Gumanizm
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Praksisizm
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      V.Petti tomonidan ishlab chiqilgan "Siyosiy arifmetika" asari qaysi yangi
+      fan sohasiga asos soldi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Mikroiqtisodiyot
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Makroiqtisodiyot
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Statistika
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Finans
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      V.Petti "Pul to'g'risida bir necha og'iz so'z" asarida qaysi iqtisodiy
+      tizimni tanqid qilgan?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Feodalizm
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Markantilizm
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Kapitalizm
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Marksizm
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      V.Petti fikriga ko'ra, boylik faqat qanday jarayon orqali yuzaga keladi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Pulni ishlab chiqarish
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Tovar va xizmatlarni yaratish
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Savdo operatsiyalari
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Aholi sonining oshishi
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      V.Petti yer bahosini qanday usulda aniqlashga harakat qilgan?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Yerni baholashda ko'proq yer egalarining ijtimoiy holatiga qarash
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Yer bahosi yiliga olinadigan renta miqdoriga ko'ra aniqlanadi
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Yer bahosi faqat iqtisodiy o'sishdan kelib chiqadi
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Yer bahosi faqat yerning tabiiy unumdorligi bilan bog'liq
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      style={{
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        lineHeight: "114%",
+        textAlign: "left"
+      }}
+    >
+      V.Petti qaysi iqtisodiy nazariyani ishlab chiqdi, unda mehnat, yer va
+      kapital o'rtasidagi munosabatlar tahlil qilinadi?
+    </p>
+    <p
+      style={{
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Mehnat qiymati nazariyasi
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Renta nazariyasi
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Ishlab chiqarish nazariyasi
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Kapital qiymati nazariyasi
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Fiziokratlar qanday davrda va qaysi mamlakatda shakllangan?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      XVII asr, Angliya
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      #XVIII asr, Fransiya
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      XIX asr, Germaniya
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      XVI asr, Italiya
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      Fiziokratlar qaysi iqtisodiy tizimga qarshi kurashishdi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Kapitalizm
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      #Feodalizm
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Sosializm
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Merkantilizm
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Fiziokratlar nima deb hisoblashgan?
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "22pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Boylikni sanoatdan yaratish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      #Boylikni qishloq xo‘jaligidan yaratish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Boylikni tijoratdan yaratish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Boylikni bank tizimidan yaratish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      Fiziokratlar ishlab chiqarishni qanday tushunishgan?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "25pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Sanoatga asoslangan
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      #Qishloq xo‘jaligiga asoslangan
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Xizmatlar sohasiga asoslangan
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Savdo va almashuvga asoslangan
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenyening iqtisodiy g‘oyalari qayerda yuzaga keldi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Londonda
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Parijda
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      #Versalda
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Berlin
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye qaysi asarida fiziokratizm maktabi asoslarini yaratgan?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      "Sanoat Tizimi"
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      #"Iqtisodiy Jadval"
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      "Milliy Boyliklar"
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      "Tabiiy Tartib"
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye almashuvning ekvivalentligi haqidagi ta'limotni ilgari surdi. Bu
+      ta'limot nimaga oid edi?
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Almashuv boylik yaratadi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      #Almashuvda boylik yaratilmadi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Almashuvda foyda paydo bo‘ladi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Almashuvda kapitalning qiymati oshadi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye "sof mahsulot"ni qaysi sohada yaratilgan deb bilgan?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Sanoatda
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      #Qishloq xo‘jaligida
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Xizmatlar sohasida
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Bank tizimida
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      Fiziokratlar uchun qishloq xo‘jaligi nima deb qaralgan?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Boylikning asosiy manbai
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Boylikning ikkilamchi manbai
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Boylikning birinchi darajali manbai
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Samarasiz soha
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      Fransiyada dehqonlarning ahvoli qanday edi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "17pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "20pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Juda yaxshi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "20pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "20pt", textIndent: "0pt", textAlign: "left" }}>
+      Yaxshi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "20pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "20pt", textIndent: "0pt", textAlign: "left" }}>
+      #Yomonlashgan
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "20pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "20pt", textIndent: "0pt", textAlign: "left" }}>
+      Umuman yomon emas edi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "20pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "19pt", textIndent: "0pt", textAlign: "left" }}>
+      Fiziokratlar iqtisodiy tizimini qanday isloh qilishni taklif etishdi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "19pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Sanoatni rivojlantirish
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "23pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      #Soliq tizimini o‘zgartirish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Feodal tuzumni kuchaytirish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      Qishloq xo‘jaligiga soliq joriy qilish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "23pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Fiziokratlarning iqtisodiy siyosatida qanday sohalar o‘rtasidagi
+      bog‘liqlik e'tiborga olinmaydi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Ijtimoiy soha va iqtisodiyot
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Bozor va ishlab chiqarish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Davlat va sanoat
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      #Qishloq xo‘jaligi va sanoat
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye almashuvning ekvivalentligi ta'limoti bo‘yicha nimani ilgari
+      surdi?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Almashuv jarayonida boylik yaratiladi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Almashuv jarayonida boylik yaratilmaydi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Almashuvda qiymat o‘zgaradi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Almashuv faqat kapitalni oshiradi
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye nima deb hisoblagan?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Savdo boylik yaratmaydi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Savdo boylik yaratadi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Savdo va ishlab chiqarish bir xil jarayon
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Savdo tarmog‘i mustahkam bo‘lishi kerak
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      F.Kenye ishlab chiqarish qiymatini qanday tushungan?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #U faqat ishlab chiqarish chiqimlariga bog‘liq
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      U faqat almashuvga bog‘liq
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      U faqat bozor bahosiga bog‘liq
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      U faqat iste'mol qiymatlariga bog‘liq
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye "sof mahsulot"ni qanday shaklda ta'riflagan?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Tabiiy boylik sifatida
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Sanoat mahsuloti sifatida
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Xizmatlar mahsuloti sifatida
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Qishloq xo‘jalik mahsuloti sifatida
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      className="s2"
+      style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}
+    >
+      Fiziokratlar "unumsiz mehnat"ni qaysi sohada ko‘rishgan?
+    </p>
+    <p
+      className="s2"
+      style={{
+        paddingTop: "2pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p style={{ paddingTop: "2pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Sanoat
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Qishloq xo‘jaligi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Xizmatlar sektori
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Savdo
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      style={{
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        lineHeight: "115%",
+        textAlign: "left"
+      }}
+    >
+      Fiziokratlarning "unumli mehnat"ni faqat qaysi soha bilan bog‘lashlari
+      nima sababli noto‘g‘ri deb hisoblanadi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Chunki barcha mehnat sohalari qo‘shimcha qiymat yaratadi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Chunki sanoat ham qo‘shimcha qiymat yaratadi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Chunki dehqonchilik unumdor emas
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Chunki sanoat bo‘yicha mehnat samarali emas
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Fiziokratlar kapitalning qanday dastlabki tahlilini berishdi?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Faqat bank tizimida
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Sanoat tarmoqlarida
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Mehnat va ishlab chiqarish sohasida
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Savdo sohasida
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Fiziokratlar rentaning yagona manbai sifatida nimani ko‘rishgan?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Sanoat
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Qishloq xo‘jaligi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Bank tizimi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Savdo
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye "sof mahsulot" to‘g‘risidagi qarashlariga asoslanib, jamiyatni
+      qaysi sinflarga bo‘ladi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Unumli sinf, yer egalari sinfi, unumsiz sinf
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Unumsiz sinf, sanoatchilar sinfi, fermerlar sinfi
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Yer egalari, hunarmandlar, davlat xizmatchilari
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Sanoat sinfi, dehqonchilik sinfi, xizmat ko‘rsatuvchi sector
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye "sof mahsulot"ni yaratmagan deb qaysi sinfni ataydi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Unumli sinf
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Yer egalari sinfi
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      #Unumsiz sinf
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Qishloq xo‘jaligi sinfi
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye qanday kapitalni "asosiy kapital" deb atagan?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Pulni
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      #Ishlab chiqarish vositalari va asbob-uskuna
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Sanoat mahsulotlari
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Qishloq xo‘jaligi mahsulotlari
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye va fiziokratlar orasidagi asosiy farq nima edi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      #Fiziokratlar kapitalni pul bilan tenglashtirgan, Kenye esa ishlab
+      chiqarish vositalarini asosiy kapital deb bilgan
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Fiziokratlar "sof mahsulot"ni pulga tenglashtirgan
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Kenye kapitalni to‘liq pul bilan taqqoslagan
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Fiziokratlar ishlab chiqarish vositalarini asosiy kapital deb bilgan
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye "Iqtisodiy jadval"da qaysi omilni asosiy tahlil obyektiga olgan?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Kapitalning aylanish jarayoni
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      #Ijtimoiy sinflar o‘rtasidagi o‘zaro aloqalar
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Pul va tovarning almashinuvi
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Davlatning iqtisodiy roli
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenyening "Iqtisodiy jadval"iga ko‘ra, "unumsiz sinf"ni tashkil etadigan
+      sinflar qaysilar?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Fermerlar
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      #Sanoatchilar, hunarmandlar, savdogarlar
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Yer egalari
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Sanoat ishlab chiqaruvchilari
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye tomonidan "boshlang‘ich avans" va "yillik avans" tushunchalari
+      qaysi tahlilga asoslangan?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      #Takror ishlab chiqarish va kapitalning aylanish jarayoni
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Sinflarning iqtisodiy pozitsiyasi
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Pulning o‘zgarishi
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Xalqaro savdoning rivojlanishi
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p
+      style={{
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        lineHeight: "114%",
+        textAlign: "left"
+      }}
+    >
+      F.Kenye tomonidan taqdim etilgan "Iqtisodiy jadval"ning birinchi
+      variantiga ko‘ra, "unumli sinf" qaysi mahsulotni realizatsiya qiladi?
+    </p>
+    <p
+      style={{
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Sanoat mahsulotlari
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      #Qishloq xo‘jalik mahsulotlari
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Ishlab chiqarish qurollari
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Pul
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      F.Kenye qanday iqtisodiy modelni yaratgan va bu modelning ilmiy ahamiyati
+      qanday?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Unumsiz sinfning ishlab chiqarish jarayonini tahlil qilish
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      #Makroekonomik modellashtirishni amalga oshirish
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Xalqaro iqtisodiy aloqalarni tahlil qilish
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      Sanoat kapitalining rolini aniqlash
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      "Iqtisodiy jadval"da keltirilgan barcha raqamlar qanday qiymatni tashkil
+      etadi?
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "1pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      10 milliard
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      #7 milliard
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      2 milliard
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      5 milliard
+    </p>
+    <p
+      style={{
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        lineHeight: "13pt",
+        textAlign: "left"
+      }}
+    >
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      XVIII asrning ikkinchi yarmida Angliyada iqtisodiy o‘zgarishlar qanday
+      asosiy omillar tufayli sodir bo‘ldi?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      #Sanoat inqilobi va yangi ishlab chiqarish texnologiyalarining joriy
+      etilishi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Feodal tizimning saqlanib qolishi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      O‘zbekistonning mustamlakachilik siyosati
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Ijtimoiy sinflarning tenglashuvi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Angliyada sanoat inqilobining boshlanishiga sabab bo‘lgan eng muhim soha
+      qaysi edi?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Temiryo‘l transporti
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      #Paxta to‘qimachiligi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Paxta yetishtirish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Avtomobilsozlik
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      A.Smit va D.Rikardo tomonidan ilgari surilgan iqtisodiy ta'limotlarning
+      asosiy maqsadi nima edi?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Feodalizmni saqlab qolish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      #Erkin bozor iqtisodiyotini shakllantirish
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Kommunistik jamiyatni qurish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Agarda qishloq xo‘jaligini rivojlantirish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Angliyada sanoat inqilobidan keyin bozor tizimi qanday o‘zgarishlarni
+      boshdan kechirdi?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      #Erkin bozor talablarining kuchayishi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      An'anaviy savdo-usullarining kuchayishi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Ishchilar huquqlarining kuchayishi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Feodal tizimning tiklanishi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Sanoat inqilobi natijasida Angliyada qanday ijtimoiy sinflar paydo bo‘ldi?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      #Faol ishchilar, yer egalari, sohibkorlar
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Feodallar, qishloq dehqonlari
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Hukumat xodimlari, ishchilar
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      O‘rta sinf, savdogarlar
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      A.Smitning iqtisodiy g‘oyalarida eng asosiy tushuncha nima edi?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Sanoatni davlat tomonidan boshqarish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      #Erkin savdo va bozor munosabatlari
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Xalqning tengligi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Milliy boyliklarni orttirish
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      D.Rikardo bozor iqtisodiyotida qanday rol o‘ynadi?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalizmning rivojlanishiga qarshi chiqdi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      #Renta nazariyasini ishlab chiqdi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Feodal tizimni tiklashga intildi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Kommunistik g‘oyalarni ilgari surdi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "8pt", textIndent: "0pt", textAlign: "left" }}>
+      XVIII asrning ikkinchi yarmida Angliyada sanoatning rivojlanishiga to‘siq
+      bo‘lgan omil nima edi?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "9pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Kapitalizmning tez rivojlanishi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      #Proteksionizm va eski qonunlar
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Demokratik islohotlar
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Sanoat inqilobining kechikishi
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Angliyada sanoat inqilobi jarayonida ishlab chiqarish omillari qanday
+      o‘zgargan?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      #Mehnat, yer va kapital tovar sifatida qaralgan
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Yer va kapital bo‘ysungan ijtimoiy vazifalarga aylanib ketgan
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Mehnat faqat qullar uchun mo‘ljallangan
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Tovarlar faqat hukumat tomonidan ishlab chiqarilgan
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Angliyada sanoat inqilobi natijasida qanday asosiy texnologik yutuqlar
+      yuzaga keldi?
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      #Bug‘li mashina va temir yo‘l transporti
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Qishloq xo‘jaligida yangi o‘g‘itlar
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Savdo uchun yangi to‘lov tizimlari
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      Xizmat ko‘rsatish sohasida innovatsiyalar
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "9pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ paddingTop: "3pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Mehnat unumdorligi nima?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Yangi mehnat turi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Qayta ishlanayotgan material qiymatining oshishiga olib keladigan mehnat
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Smitning tasdiqlagan nazariyasi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Yangi mehnat usulini ishlab chiqish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Smitning fikricha, mehnat qanday qiymat yaratadi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Shaxsiy faoliyat
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Faqat qishloq xo‘jaligi mehnati
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Umumiy ijtimoiy mehnat
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Faqat sanoat mehnati
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Smitning unumli va unumsiz mehnat farqi qanday?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Unumli mehnat faqat tovar ishlab chiqarishga tegishli
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Unumsiz mehnat davlat tomonidan ta'minlanadi
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Unumli mehnat kapitalga almashtiriladi, unumsiz mehnat daromadga
+      almashtiriladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Unumli mehnat davlat faoliyati bilan bog‘liq
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Fiziokratlar va Smitning kapital tushunchasiga bo‘lgan yondoshuvlaridagi
+      farq nimada?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Fiziokratlar faqat sanoat kapitalini unumli deb bilgan
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Smit sanoat kapitalini ham unumli deb hisoblaydi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Fiziokratlar kapitalni faqat qishloq xo‘jaligida ishlatiladigan deb
+      tushungan
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Smit kapitalni faqat tovar ishlab chiqarishga tegishli deb hisoblagan
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Smitning kapital to‘g‘risidagi nazariyasida qanday ziddiyatlar mavjud?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalning rolini faqat sanoatga bog‘lash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalni faqat muomaladagi mablag‘ deb qarash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalning o‘zi unumli bo‘lmagan deb hisoblash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Kapital va ishlab chiqarish vositalarining farqini tushunmaslik
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Smitning asosiy va aylanma kapital haqidagi ta'limoti nima?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Aylanma kapital faqat tovar va pulni anglatadi
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Asosiy kapital doimo muomalada bo‘lishi kerak
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Asosiy kapital ishlab chiqarish vositalari va ishchilar malakasi sifatida
+      qaraladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Aylanma kapital faqat savdoda ishlatiladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Smitning ijtimoiy kapitalni tasavvuri qanday?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Asosiy va aylanma kapital bir xil qiymatga ega
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Ijtimoiy kapital faqat o‘zgaruvchan kapitaldan iborat
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Smit ijtimoiy kapitalni faqat o‘zgarmas kapital deb hisoblagan
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Ijtimoiy kapital doimiy va o‘zgarmas bo‘lishi kerak
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Smitning takror ishlab chiqarish nazariyasida qanday xatolik mavjud?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Yalpi ijtimoiy mahsulot qiymatini to‘liq hisoblash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Yalpi mahsulot qiymatini faqat yangidan hosil qilingan qiymat bilan
+      tenglashtirish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Ijtimoiy kapitalni faqat daromadlarga bo‘lish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalni faqat tovar ishlab chiqarish bilan bog‘lash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Smitning iqtisodiy siyosatga oid fikrlarida qanday prinsiplar
+      ko‘rsatilgan?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Davlat iqtisodiyotga faqat aralashishi kerak
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Iqtisodiy rivojlanish faqat davlat nazorati ostida bo‘lishi kerak
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Erkin raqobat va bozor erkinligi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Davlatning iqtisodiyotga aralashishi cheklanmagan bo‘lishi kerak
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Smitning soliq siyosati to‘g‘risidagi fikrlariga ko‘ra, soliq qanday
+      bo‘lishi kerak?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Solaqlari faqat yirik korxonalardan olinishi kerak
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Soliq fuqaroning imkoniyatiga mos kelishi kerak
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Soliq davlat tomonidan belgilangan miqdorda bo‘lishi kerak
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Soliq faqat iste'molchilar uchun belgilanishi kerak
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      David Rikardo kim edi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Iqtisodchi va matematika olimi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Faqat birja operatsiyalarini amalga oshirgan savdogar
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Klassik iqtisodiyotning asoschisi va Angliya parlamenti a'zosi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Yirik sanoat korxonasi egasi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      David Rikardo qaysi asarini 1817 yilda chop etdi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      "Oltin ajdahosi to'g'risida uch xat"
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #"Siyosiy iqtisod va soliq solishning boshlanishi"
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      "Milliy bank tuzishning rejasi"
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      "Xalqlar boyligi"
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo nima haqida asosiy fikrlar berdi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Sanoat inqilobi va kapitalizmning rivoji
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Erkin savdo, soliq va yer rentasi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalizmning rivojlanishi va xalqaro mehnat taqsimoti
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Barcha javoblar to'g'ri
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardoning "qiymat qonuni"ga ko'ra, tovarlarning qiymati nima bilan
+      aniqlanadi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Tovarlarning foydaliligi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Sarflangan mehnat miqdori
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalning miqdori
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Tovarlarni ishlab chiqarish uchun sarflangan capital
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      David Rikardo nima uchun erkin savdoni talab qilgan?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Boyligini oshirish uchun
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #O'zining iqtisodiy fikrlarini amalga oshirish uchun
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Mehnat bozorini nazorat qilish uchun
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Barcha mamlakatlarga iqtisodiy erkinlik berish uchun
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo "non qonunlari"ga qanday qarashda edi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Ularni qo'llab-quvvatladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Ularni bekor qilishni talab qildi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Ularni faqat qisman bekor qilishni istadi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Ular bilan hech qanday aloqasi yo'q edi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo qaysi iqtisodiy tizimni jamiyatni tashkil etishning yakkayu yagona
+      tabiiy shakli deb hisoblagan?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Feodalizm
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Sotsializm
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Kapitalizm
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kommunizm
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo ish haqining tovar qiymatiga ta'sirini qanday tushuntirgan?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      Ish haqi oshishi bilan tovar qiymati oshadi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Ish haqi oshsa, tovar qiymati o'zgarishsiz qoladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Ish haqi oshishi bilan tovar qiymati kamayadi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Ish haqining tovar qiymatiga ta'siri yo'q
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo qanday yondashuvni qo'llagan?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Tarixiy yondashuv
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Tabiy tartib konsepsiyasi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Sotsialistik yondashuv
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Faylasuflik yondashuvi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardoning fikricha, ishchilar qanday sharoitda och qolishi mumkin?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Ish haqi oshsa, nonning bahosi o'zgarmasa
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Mehnat unumdorligi oshsa, ish haqi kamayadi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalning miqdori oshsa, ishchilar ko'proq ishlaydi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Ishchilar ko'proq ishlab chiqarish uchun rag'batlantiriladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo Maltusning mehnat va kapitalizm haqidagi fikriga ko'ra,
+      ishchilarning haqlari qanday ushlab turiladi?
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalizmning xususiy qonunlari orqali
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Tabiiy qonunlar orqali
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Faol davlat siyosati orqali
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Jamiyatda tenglikni ta'minlash orqali
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo qaysi iqtisodiy tushunchalarni tahlil qilishda asosiy e'tiborini
+      yo'naltirdi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Ish haqi va foyda nisbati
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Tovarlar qiymati va davlat aralashuvi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalning taqsimoti va yerning rentasi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalizm va kommunizmni solishtirish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo yer rentasi haqidagi fikrida nima ta'kidlaydi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Yer rentasi yerning unumdorligiga qarab farq qiladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Yer rentasi faqat kapitalistlar tomonidan belgilanadi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Yer rentasi faqat tabiiy omillar tomonidan belgilanadi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Yer rentasi har doim nisbatan bir xil bo'ladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo "mutlaq afzallik" prinsipi haqida qanday fikrda edi?
+    </p>
+    <p
+      style={{
+        paddingTop: "3pt",
+        paddingLeft: "5pt",
+        textIndent: "0pt",
+        textAlign: "left"
+      }}
+    >
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Bu prinsip mamlakatlar orasida to'liq ixtisoslashuvni ta'minlaydi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Bu prinsipni rad etdi va faqat nisbiy afzallikni qabul qildi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Bu prinsip faqat iqtisodiy inqirozlar holatida ishlaydi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Bu prinsip kapitalizmning rivojlanishini to'xtatadi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo uchun kapitalizmda foydaning pasayishi qanday oqibatlarga olib
+      keladi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Kapital jamg'arilishining kamayishi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Iqtisodiy o'sishning ortishi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Tovar ishlab chiqarishning kengayishi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Mehnatning kamayishi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardoning fikriga ko'ra, kapital nima deb tushuniladi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Faqat mehnat vositalari va ishlab chiqarish vositalari
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Tabiiy resurslar va kapitalning umumiy miqdori
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Ishchilarning mehnati va ularning ish haqiga sarflanadigan xarajatlar
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Ish haqi va foydaning yig'indisi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo nisbiy afzallik tamoyilini qaysi misolda ko'rsatadi?
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Shotlandiya va Portugaliya orasidagi vinolar ishlab chiqarish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      AQSH va Kanada o'rtasidagi paxta ishlab chiqarish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Angliya va Fransiya o'rtasidagi sanoat rivojlanishi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Braziliya va Meksika o'rtasidagi kofe ishlab chiqarish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo erkin savdo siyosatini qanday baholadi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Erkin savdo iqtisodiy inqirozlarni keltirib chiqaradi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Erkin savdo ingliz sohibkorlari manfaatlariga mos keladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Erkin savdo faqat qoloq mamlakatlar uchun foydalidir
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Erkin savdo iqtisodiy taraqqiyotga to'sqinlik qiladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+    <p style={{ textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Rikardo "Non qonunlari"ni bekor qilishga qanday sababni ko'rsatdi?
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Qishloq xo'jaligida rentaning ortishi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      #Arzon don import qilish orqali iqtisodiy manfaatlarni oshirish
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Erkin savdo iqtisodiy taraqqiyotga to'sqinlik qiladi
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ====
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      Kapitalizmning rivojlanishini cheklashMehnat bozorining barqarorligini
+      saqlash
+    </p>
+    <p style={{ paddingTop: "1pt", textIndent: "0pt", textAlign: "left" }}>
+      <br />
+    </p>
+    <p style={{ paddingLeft: "5pt", textIndent: "0pt", textAlign: "left" }}>
+      ++++
+    </p>
+  </>
+)
